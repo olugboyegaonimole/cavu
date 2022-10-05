@@ -1,0 +1,2203 @@
+airport_name,calendar_date,arriving_departing_flag,passengers
+East Midlands,2020-01-19 00:00:00,Departing,2481
+East Midlands,2020-02-11 00:00:00,Arriving,1883
+East Midlands,2020-02-25 00:00:00,Arriving,2997
+East Midlands,2020-03-13 00:00:00,Departing,2267
+East Midlands,2020-02-17 00:00:00,Arriving,2918
+East Midlands,2020-03-13 00:00:00,Arriving,2329
+East Midlands,2020-02-28 00:00:00,Departing,3207
+East Midlands,2020-01-02 00:00:00,Departing,3215
+East Midlands,2020-03-10 00:00:00,Arriving,1925
+East Midlands,2020-02-25 00:00:00,Departing,2582
+East Midlands,2020-01-15 00:00:00,Arriving,1567
+East Midlands,2020-03-04 00:00:00,Arriving,1633
+East Midlands,2020-03-11 00:00:00,Departing,1577
+East Midlands,2020-03-19 00:00:00,Departing,152
+East Midlands,2020-01-28 00:00:00,Arriving,1745
+East Midlands,2020-01-10 00:00:00,Arriving,2619
+East Midlands,2020-01-02 00:00:00,Arriving,3896
+East Midlands,2020-03-19 00:00:00,Arriving,1622
+East Midlands,2020-03-27 00:00:00,Departing,0
+East Midlands,2020-02-28 00:00:00,Arriving,2991
+East Midlands,2020-01-25 00:00:00,Arriving,2887
+East Midlands,2020-03-04 00:00:00,Departing,1739
+East Midlands,2020-01-17 00:00:00,Arriving,2563
+East Midlands,2020-02-20 00:00:00,Departing,2716
+East Midlands,2020-01-28 00:00:00,Departing,1785
+East Midlands,2020-02-22 00:00:00,Departing,3131
+East Midlands,2020-01-01 00:00:00,Arriving,1758
+Manchester,2020-01-18 00:00:00,Departing,21796
+Manchester,2020-02-03 00:00:00,Departing,24841
+Manchester,2020-02-07 00:00:00,Departing,25790
+Manchester,2020-01-05 00:00:00,Arriving,33324
+Manchester,2020-02-20 00:00:00,Departing,23478
+Manchester,2020-01-12 00:00:00,Departing,23699
+Manchester,2020-02-25 00:00:00,Arriving,23641
+Manchester,2020-03-06 00:00:00,Departing,22445
+Manchester,2020-01-16 00:00:00,Arriving,20681
+Manchester,2020-03-03 00:00:00,Departing,16861
+Manchester,2020-03-07 00:00:00,Departing,21704
+Manchester,2020-01-30 00:00:00,Arriving,21076
+Manchester,2020-01-29 00:00:00,Departing,17012
+Manchester,2020-02-08 00:00:00,Departing,24522
+Manchester,2020-01-30 00:00:00,Departing,21197
+Manchester,2020-01-26 00:00:00,Arriving,26813
+Manchester,2020-02-06 00:00:00,Departing,22308
+Manchester,2020-01-03 00:00:00,Departing,27298
+Manchester,2020-02-28 00:00:00,Arriving,26482
+Manchester,2020-01-05 00:00:00,Departing,27130
+Manchester,2020-03-10 00:00:00,Arriving,17908
+Manchester,2020-03-23 00:00:00,Departing,1500
+East Midlands,2020-07-13 00:00:00,Arriving,742
+East Midlands,2020-04-12 00:00:00,Departing,0
+East Midlands,2020-04-03 00:00:00,Departing,0
+East Midlands,2020-07-14 00:00:00,Departing,876
+East Midlands,2020-08-18 00:00:00,Departing,1067
+East Midlands,2020-08-17 00:00:00,Departing,1707
+East Midlands,2020-08-28 00:00:00,Departing,2111
+East Midlands,2020-06-04 00:00:00,Arriving,0
+East Midlands,2020-06-13 00:00:00,Arriving,0
+East Midlands,2020-07-07 00:00:00,Arriving,204
+East Midlands,2020-08-08 00:00:00,Arriving,1925
+East Midlands,2020-05-06 00:00:00,Departing,0
+East Midlands,2020-08-17 00:00:00,Arriving,2042
+East Midlands,2020-05-01 00:00:00,Arriving,0
+East Midlands,2020-07-20 00:00:00,Departing,1922
+East Midlands,2020-07-30 00:00:00,Departing,1074
+East Midlands,2020-08-28 00:00:00,Arriving,1897
+East Midlands,2020-09-05 00:00:00,Arriving,1630
+East Midlands,2020-04-05 00:00:00,Departing,0
+East Midlands,2020-04-23 00:00:00,Arriving,0
+East Midlands,2020-10-23 00:00:00,Departing,900
+East Midlands,2020-07-13 00:00:00,Departing,1181
+East Midlands,2020-08-06 00:00:00,Arriving,869
+East Midlands,2020-08-06 00:00:00,Departing,1450
+East Midlands,2020-08-25 00:00:00,Arriving,1325
+East Midlands,2020-08-03 00:00:00,Departing,1890
+East Midlands,2020-08-20 00:00:00,Departing,1233
+East Midlands,2020-09-27 00:00:00,Arriving,1336
+East Midlands,2020-08-15 00:00:00,Arriving,1988
+East Midlands,2020-08-16 00:00:00,Departing,1592
+East Midlands,2020-08-07 00:00:00,Arriving,1566
+East Midlands,2020-10-10 00:00:00,Arriving,1075
+East Midlands,2020-08-18 00:00:00,Arriving,1578
+East Midlands,2020-08-30 00:00:00,Arriving,1493
+East Midlands,2020-07-25 00:00:00,Arriving,1678
+East Midlands,2020-09-07 00:00:00,Departing,1517
+East Midlands,2020-09-24 00:00:00,Departing,1030
+East Midlands,2020-08-20 00:00:00,Arriving,1106
+East Midlands,2020-06-24 00:00:00,Departing,105
+East Midlands,2020-04-03 00:00:00,Arriving,0
+East Midlands,2020-09-12 00:00:00,Arriving,1540
+East Midlands,2020-06-24 00:00:00,Arriving,7
+East Midlands,2020-05-30 00:00:00,Arriving,0
+East Midlands,2020-04-15 00:00:00,Departing,0
+East Midlands,2020-04-28 00:00:00,Departing,0
+East Midlands,2020-06-16 00:00:00,Departing,0
+East Midlands,2020-06-18 00:00:00,Departing,0
+East Midlands,2020-09-30 00:00:00,Departing,819
+East Midlands,2020-06-12 00:00:00,Departing,0
+East Midlands,2020-05-06 00:00:00,Arriving,0
+East Midlands,2020-06-18 00:00:00,Arriving,0
+East Midlands,2020-05-14 00:00:00,Arriving,0
+East Midlands,2020-04-18 00:00:00,Departing,0
+East Midlands,2020-10-10 00:00:00,Departing,1150
+Manchester,2020-07-10 00:00:00,Departing,3887
+Manchester,2020-08-21 00:00:00,Departing,9229
+Manchester,2020-09-15 00:00:00,Departing,6654
+Manchester,2020-08-25 00:00:00,Arriving,8214
+Manchester,2020-09-15 00:00:00,Arriving,7608
+Manchester,2020-07-13 00:00:00,Departing,3688
+Manchester,2020-08-12 00:00:00,Departing,7987
+Manchester,2020-08-29 00:00:00,Departing,9548
+Manchester,2020-07-19 00:00:00,Departing,6915
+Manchester,2020-07-30 00:00:00,Departing,4734
+Manchester,2020-04-18 00:00:00,Departing,185
+Manchester,2020-10-24 00:00:00,Departing,5920
+East Midlands,2020-02-05 00:00:00,Arriving,1578
+East Midlands,2020-01-11 00:00:00,Arriving,2834
+East Midlands,2020-01-20 00:00:00,Arriving,2524
+East Midlands,2020-02-18 00:00:00,Departing,2602
+East Midlands,2020-01-27 00:00:00,Departing,2377
+East Midlands,2020-01-18 00:00:00,Departing,2803
+East Midlands,2020-02-16 00:00:00,Arriving,3333
+East Midlands,2020-01-31 00:00:00,Departing,2826
+East Midlands,2020-03-06 00:00:00,Departing,3030
+East Midlands,2020-02-29 00:00:00,Departing,3075
+East Midlands,2020-02-21 00:00:00,Arriving,3184
+East Midlands,2020-02-05 00:00:00,Departing,1517
+East Midlands,2020-02-01 00:00:00,Departing,3023
+East Midlands,2020-03-21 00:00:00,Departing,96
+East Midlands,2020-01-07 00:00:00,Departing,1902
+East Midlands,2020-03-17 00:00:00,Departing,154
+East Midlands,2020-02-18 00:00:00,Arriving,2312
+East Midlands,2020-03-28 00:00:00,Arriving,0
+East Midlands,2020-02-24 00:00:00,Arriving,3014
+Manchester,2020-02-22 00:00:00,Departing,23412
+Manchester,2020-03-05 00:00:00,Arriving,19205
+Manchester,2020-03-19 00:00:00,Arriving,10078
+Manchester,2020-01-08 00:00:00,Departing,17408
+Manchester,2020-03-13 00:00:00,Arriving,18836
+Manchester,2020-02-04 00:00:00,Departing,17204
+Manchester,2020-03-04 00:00:00,Arriving,17953
+Manchester,2020-01-02 00:00:00,Arriving,26976
+Manchester,2020-01-22 00:00:00,Arriving,16636
+Manchester,2020-02-22 00:00:00,Arriving,27913
+Manchester,2020-03-19 00:00:00,Departing,4885
+Manchester,2020-02-24 00:00:00,Arriving,29291
+Manchester,2020-01-15 00:00:00,Arriving,17081
+Manchester,2020-02-18 00:00:00,Arriving,21615
+Manchester,2020-01-19 00:00:00,Arriving,26771
+Manchester,2020-03-07 00:00:00,Arriving,22350
+Manchester,2020-01-19 00:00:00,Departing,23851
+Manchester,2020-02-29 00:00:00,Arriving,22708
+Manchester,2020-03-27 00:00:00,Departing,874
+Manchester,2020-03-27 00:00:00,Arriving,938
+Manchester,2020-02-29 00:00:00,Departing,24080
+Manchester,2020-03-28 00:00:00,Arriving,504
+Manchester,2020-03-23 00:00:00,Arriving,3213
+East Midlands,2020-05-11 00:00:00,Arriving,0
+East Midlands,2020-05-17 00:00:00,Departing,0
+East Midlands,2020-07-19 00:00:00,Departing,1656
+East Midlands,2020-08-26 00:00:00,Departing,1231
+East Midlands,2020-09-05 00:00:00,Departing,1476
+East Midlands,2020-09-20 00:00:00,Departing,1326
+East Midlands,2020-06-16 00:00:00,Arriving,1
+East Midlands,2020-07-22 00:00:00,Arriving,734
+East Midlands,2020-08-02 00:00:00,Arriving,1831
+East Midlands,2020-05-16 00:00:00,Departing,0
+East Midlands,2020-05-29 00:00:00,Departing,0
+East Midlands,2020-04-09 00:00:00,Arriving,0
+East Midlands,2020-04-22 00:00:00,Arriving,0
+East Midlands,2020-07-29 00:00:00,Arriving,1056
+East Midlands,2020-08-12 00:00:00,Arriving,1433
+East Midlands,2020-08-13 00:00:00,Arriving,1293
+East Midlands,2020-08-09 00:00:00,Departing,1690
+East Midlands,2020-09-13 00:00:00,Arriving,1472
+East Midlands,2020-05-23 00:00:00,Departing,0
+East Midlands,2020-03-29 00:00:00,Departing,0
+East Midlands,2020-04-16 00:00:00,Departing,0
+East Midlands,2020-03-31 00:00:00,Arriving,0
+East Midlands,2020-09-11 00:00:00,Departing,1758
+East Midlands,2020-07-06 00:00:00,Departing,1051
+East Midlands,2020-07-23 00:00:00,Departing,1653
+East Midlands,2020-09-22 00:00:00,Arriving,1188
+East Midlands,2020-08-29 00:00:00,Departing,1612
+East Midlands,2020-07-22 00:00:00,Departing,1095
+East Midlands,2020-09-23 00:00:00,Departing,821
+East Midlands,2020-08-26 00:00:00,Arriving,1725
+East Midlands,2020-07-23 00:00:00,Arriving,884
+East Midlands,2020-07-11 00:00:00,Arriving,636
+East Midlands,2020-07-18 00:00:00,Arriving,954
+East Midlands,2020-09-28 00:00:00,Departing,1166
+East Midlands,2020-10-22 00:00:00,Departing,442
+East Midlands,2020-04-01 00:00:00,Departing,0
+East Midlands,2020-06-02 00:00:00,Departing,0
+East Midlands,2020-05-07 00:00:00,Arriving,0
+East Midlands,2020-10-09 00:00:00,Arriving,1440
+East Midlands,2020-05-29 00:00:00,Arriving,0
+East Midlands,2020-06-05 00:00:00,Arriving,0
+East Midlands,2020-04-09 00:00:00,Departing,0
+East Midlands,2020-05-27 00:00:00,Departing,0
+East Midlands,2020-05-19 00:00:00,Departing,0
+East Midlands,2020-10-07 00:00:00,Arriving,819
+East Midlands,2020-04-10 00:00:00,Departing,0
+East Midlands,2020-04-27 00:00:00,Departing,0
+East Midlands,2020-06-21 00:00:00,Departing,33
+East Midlands,2020-04-19 00:00:00,Arriving,0
+East Midlands,2020-03-30 00:00:00,Arriving,110
+Manchester,2020-06-12 00:00:00,Departing,301
+Manchester,2020-07-20 00:00:00,Departing,6323
+Manchester,2020-08-05 00:00:00,Departing,8278
+Manchester,2020-08-25 00:00:00,Departing,7748
+Manchester,2020-09-23 00:00:00,Arriving,7681
+Manchester,2020-09-12 00:00:00,Departing,8730
+Manchester,2020-08-03 00:00:00,Departing,9478
+Manchester,2020-08-13 00:00:00,Arriving,6685
+Manchester,2020-03-31 00:00:00,Arriving,437
+Manchester,2020-08-20 00:00:00,Arriving,7169
+Manchester,2020-08-18 00:00:00,Departing,8178
+Manchester,2020-08-06 00:00:00,Arriving,5929
+Manchester,2020-10-11 00:00:00,Arriving,6775
+Manchester,2020-10-08 00:00:00,Departing,3445
+Manchester,2020-07-15 00:00:00,Arriving,2954
+Manchester,2020-07-20 00:00:00,Arriving,4616
+Manchester,2020-08-28 00:00:00,Arriving,10310
+Manchester,2020-08-26 00:00:00,Arriving,8845
+Manchester,2020-09-07 00:00:00,Arriving,9802
+Manchester,2020-09-05 00:00:00,Departing,9558
+Manchester,2020-08-05 00:00:00,Arriving,6082
+Manchester,2020-08-18 00:00:00,Arriving,8118
+Manchester,2020-10-23 00:00:00,Arriving,5519
+Manchester,2020-10-01 00:00:00,Arriving,5159
+East Midlands,2020-03-03 00:00:00,Departing,2064
+East Midlands,2020-02-03 00:00:00,Arriving,2563
+East Midlands,2020-02-10 00:00:00,Arriving,2788
+East Midlands,2020-02-26 00:00:00,Arriving,2244
+East Midlands,2020-01-05 00:00:00,Arriving,3871
+East Midlands,2020-01-09 00:00:00,Departing,1930
+East Midlands,2020-01-24 00:00:00,Departing,2817
+East Midlands,2020-02-10 00:00:00,Departing,2591
+East Midlands,2020-01-12 00:00:00,Arriving,2747
+East Midlands,2020-03-05 00:00:00,Arriving,2474
+East Midlands,2020-02-03 00:00:00,Departing,2353
+East Midlands,2020-03-11 00:00:00,Arriving,1510
+East Midlands,2020-01-06 00:00:00,Arriving,3287
+East Midlands,2020-03-18 00:00:00,Departing,225
+East Midlands,2020-01-23 00:00:00,Departing,2175
+East Midlands,2020-02-06 00:00:00,Departing,2315
+East Midlands,2020-02-20 00:00:00,Arriving,2727
+East Midlands,2020-03-27 00:00:00,Arriving,0
+East Midlands,2020-03-07 00:00:00,Departing,2920
+Manchester,2020-03-03 00:00:00,Arriving,19505
+Manchester,2020-01-29 00:00:00,Arriving,16580
+Manchester,2020-02-07 00:00:00,Arriving,24162
+Manchester,2020-01-31 00:00:00,Departing,24954
+Manchester,2020-03-24 00:00:00,Departing,1399
+Manchester,2020-02-06 00:00:00,Arriving,19496
+Manchester,2020-02-21 00:00:00,Arriving,30838
+Manchester,2020-02-21 00:00:00,Departing,25826
+Manchester,2020-03-18 00:00:00,Departing,5438
+Manchester,2020-02-16 00:00:00,Departing,29940
+Manchester,2020-01-03 00:00:00,Arriving,31029
+Manchester,2020-01-31 00:00:00,Arriving,27083
+Manchester,2020-02-05 00:00:00,Departing,18240
+Manchester,2020-01-12 00:00:00,Arriving,27744
+Manchester,2020-02-10 00:00:00,Departing,25800
+Manchester,2020-02-03 00:00:00,Arriving,22446
+Manchester,2020-02-08 00:00:00,Arriving,20689
+Manchester,2020-02-10 00:00:00,Arriving,24496
+Manchester,2020-01-24 00:00:00,Departing,24550
+Manchester,2020-02-16 00:00:00,Arriving,28523
+Manchester,2020-03-06 00:00:00,Arriving,25474
+Manchester,2020-01-24 00:00:00,Arriving,24042
+Manchester,2020-01-11 00:00:00,Arriving,23248
+Manchester,2020-03-15 00:00:00,Departing,11094
+Manchester,2020-02-20 00:00:00,Arriving,25523
+Manchester,2020-01-04 00:00:00,Departing,25995
+Manchester,2020-03-17 00:00:00,Departing,6929
+Manchester,2020-01-18 00:00:00,Arriving,22213
+Manchester,2020-03-25 00:00:00,Departing,930
+East Midlands,2020-07-01 00:00:00,Departing,502
+East Midlands,2020-05-05 00:00:00,Departing,0
+East Midlands,2020-08-11 00:00:00,Departing,1381
+East Midlands,2020-04-12 00:00:00,Arriving,0
+East Midlands,2020-06-28 00:00:00,Departing,43
+East Midlands,2020-09-26 00:00:00,Departing,1267
+East Midlands,2020-06-06 00:00:00,Arriving,0
+East Midlands,2020-07-01 00:00:00,Arriving,183
+East Midlands,2020-05-15 00:00:00,Departing,0
+East Midlands,2020-05-24 00:00:00,Departing,0
+East Midlands,2020-06-09 00:00:00,Departing,0
+East Midlands,2020-04-15 00:00:00,Arriving,0
+East Midlands,2020-04-28 00:00:00,Arriving,0
+East Midlands,2020-10-08 00:00:00,Arriving,606
+East Midlands,2020-08-10 00:00:00,Arriving,1829
+East Midlands,2020-09-07 00:00:00,Arriving,2015
+East Midlands,2020-08-27 00:00:00,Departing,1367
+East Midlands,2020-04-05 00:00:00,Arriving,0
+East Midlands,2020-05-21 00:00:00,Arriving,0
+East Midlands,2020-10-14 00:00:00,Departing,658
+East Midlands,2020-07-10 00:00:00,Arriving,575
+East Midlands,2020-09-18 00:00:00,Departing,1741
+East Midlands,2020-08-16 00:00:00,Arriving,1408
+East Midlands,2020-09-24 00:00:00,Arriving,872
+East Midlands,2020-07-17 00:00:00,Departing,2001
+East Midlands,2020-09-26 00:00:00,Arriving,1280
+East Midlands,2020-09-30 00:00:00,Arriving,1136
+East Midlands,2020-08-14 00:00:00,Arriving,1850
+East Midlands,2020-10-23 00:00:00,Arriving,904
+East Midlands,2020-08-01 00:00:00,Arriving,2298
+East Midlands,2020-09-15 00:00:00,Arriving,1047
+East Midlands,2020-09-18 00:00:00,Arriving,2002
+East Midlands,2020-08-03 00:00:00,Arriving,1608
+East Midlands,2020-10-15 00:00:00,Departing,232
+East Midlands,2020-08-01 00:00:00,Departing,1607
+East Midlands,2020-05-22 00:00:00,Departing,0
+East Midlands,2020-05-05 00:00:00,Arriving,0
+East Midlands,2020-10-08 00:00:00,Departing,573
+East Midlands,2020-06-12 00:00:00,Arriving,0
+East Midlands,2020-10-01 00:00:00,Arriving,667
+East Midlands,2020-05-12 00:00:00,Departing,0
+East Midlands,2020-05-12 00:00:00,Arriving,0
+East Midlands,2020-06-23 00:00:00,Departing,0
+East Midlands,2020-06-30 00:00:00,Arriving,0
+East Midlands,2020-08-11 00:00:00,Arriving,1388
+East Midlands,2020-05-20 00:00:00,Departing,0
+East Midlands,2020-07-30 00:00:00,Arriving,1162
+East Midlands,2020-06-23 00:00:00,Arriving,0
+East Midlands,2020-08-10 00:00:00,Departing,1730
+Manchester,2020-08-12 00:00:00,Arriving,7789
+Manchester,2020-09-02 00:00:00,Arriving,9256
+Manchester,2020-07-19 00:00:00,Arriving,4119
+Manchester,2020-08-23 00:00:00,Arriving,10235
+Manchester,2020-08-10 00:00:00,Departing,9382
+Manchester,2020-07-01 00:00:00,Arriving,1691
+Manchester,2020-10-15 00:00:00,Departing,3173
+Manchester,2020-09-21 00:00:00,Arriving,9176
+Manchester,2020-10-07 00:00:00,Arriving,5574
+Manchester,2020-10-06 00:00:00,Departing,3973
+Manchester,2020-10-03 00:00:00,Departing,5805
+Manchester,2020-07-28 00:00:00,Arriving,4751
+Manchester,2020-10-07 00:00:00,Departing,3929
+Manchester,2020-08-14 00:00:00,Arriving,9243
+Manchester,2020-10-16 00:00:00,Arriving,6279
+Manchester,2020-08-09 00:00:00,Arriving,8908
+Manchester,2020-09-17 00:00:00,Departing,5929
+Manchester,2020-07-27 00:00:00,Departing,6493
+Manchester,2020-10-21 00:00:00,Departing,3557
+Manchester,2020-10-21 00:00:00,Arriving,4462
+Manchester,2020-08-21 00:00:00,Arriving,9721
+Manchester,2020-05-03 00:00:00,Arriving,65
+Manchester,2020-06-27 00:00:00,Arriving,492
+Manchester,2020-07-03 00:00:00,Departing,3355
+Manchester,2020-10-20 00:00:00,Arriving,4368
+Manchester,2020-05-21 00:00:00,Arriving,112
+Manchester,2020-06-09 00:00:00,Departing,312
+Manchester,2020-05-11 00:00:00,Arriving,162
+Manchester,2020-07-10 00:00:00,Arriving,2850
+Manchester,2020-04-10 00:00:00,Departing,57
+Manchester,2020-05-15 00:00:00,Departing,295
+Manchester,2020-05-24 00:00:00,Departing,226
+Manchester,2020-05-10 00:00:00,Arriving,318
+Manchester,2020-05-04 00:00:00,Arriving,121
+East Midlands,2020-05-26 00:00:00,Departing,0
+Manchester,2020-04-24 00:00:00,Arriving,1098
+Manchester,2020-06-14 00:00:00,Departing,280
+Manchester,2020-05-11 00:00:00,Departing,250
+Manchester,2020-05-04 00:00:00,Departing,219
+Manchester,2020-05-07 00:00:00,Arriving,434
+Manchester,2020-05-18 00:00:00,Departing,332
+Manchester,2020-05-09 00:00:00,Departing,67
+Manchester,2020-05-16 00:00:00,Departing,149
+Manchester,2020-06-14 00:00:00,Arriving,273
+Manchester,2020-05-24 00:00:00,Arriving,156
+Manchester,2020-05-15 00:00:00,Arriving,368
+Manchester,2020-05-26 00:00:00,Departing,96
+Manchester,2020-05-26 00:00:00,Arriving,304
+East Midlands,2020-12-02 00:00:00,Departing,58
+East Midlands,2020-11-06 00:00:00,Arriving,243
+East Midlands,2020-12-29 00:00:00,Arriving,89
+East Midlands,2020-11-17 00:00:00,Arriving,121
+East Midlands,2020-11-06 00:00:00,Departing,170
+East Midlands,2020-12-29 00:00:00,Departing,23
+East Midlands,2020-12-19 00:00:00,Departing,1116
+East Midlands,2020-11-11 00:00:00,Departing,0
+East Midlands,2020-12-04 00:00:00,Departing,127
+East Midlands,2020-10-27 00:00:00,Arriving,305
+Manchester,2020-12-29 00:00:00,Arriving,2650
+Manchester,2020-12-29 00:00:00,Departing,1517
+Manchester,2020-10-31 00:00:00,Departing,4023
+Manchester,2020-12-04 00:00:00,Departing,4135
+Manchester,2020-12-06 00:00:00,Departing,4205
+Manchester,2020-12-28 00:00:00,Arriving,4221
+Manchester,2020-11-06 00:00:00,Arriving,3754
+Manchester,2020-10-26 00:00:00,Arriving,3887
+Manchester,2020-12-06 00:00:00,Arriving,2786
+Manchester,2020-11-24 00:00:00,Departing,1026
+Manchester,2020-11-24 00:00:00,Arriving,1127
+Manchester,2020-11-05 00:00:00,Departing,1836
+Manchester,2020-11-29 00:00:00,Arriving,2159
+Stansted,2020-01-03 00:00:00,Arriving,33859
+Stansted,2020-01-04 00:00:00,Departing,28087
+Stansted,2020-01-18 00:00:00,Arriving,25283
+Stansted,2020-01-29 00:00:00,Arriving,15205
+Stansted,2020-01-31 00:00:00,Arriving,27881
+Stansted,2020-01-31 00:00:00,Departing,28569
+Stansted,2020-02-03 00:00:00,Arriving,25117
+Stansted,2020-02-06 00:00:00,Departing,23431
+Stansted,2020-02-07 00:00:00,Departing,29351
+Stansted,2020-02-09 00:00:00,Arriving,25124
+Stansted,2020-02-13 00:00:00,Departing,26192
+Stansted,2020-02-14 00:00:00,Departing,31719
+Stansted,2020-02-16 00:00:00,Arriving,29144
+Stansted,2020-02-16 00:00:00,Departing,32769
+Stansted,2020-02-20 00:00:00,Arriving,26843
+Stansted,2020-02-23 00:00:00,Arriving,33061
+Stansted,2020-02-25 00:00:00,Arriving,22894
+Stansted,2020-03-03 00:00:00,Departing,16151
+Stansted,2020-03-06 00:00:00,Arriving,24868
+Stansted,2020-03-06 00:00:00,Departing,26587
+Stansted,2020-03-08 00:00:00,Departing,25283
+Stansted,2020-03-14 00:00:00,Departing,13744
+Stansted,2020-03-14 00:00:00,Arriving,17903
+Stansted,2020-03-15 00:00:00,Departing,11911
+Stansted,2020-03-17 00:00:00,Arriving,7307
+Stansted,2020-03-18 00:00:00,Departing,4927
+Stansted,2020-03-20 00:00:00,Departing,5506
+Stansted,2020-03-24 00:00:00,Departing,2052
+Stansted,2020-03-25 00:00:00,Departing,394
+Stansted,2020-04-14 00:00:00,Departing,64
+Stansted,2020-06-10 00:00:00,Arriving,416
+Stansted,2020-09-02 00:00:00,Arriving,10362
+Stansted,2020-07-19 00:00:00,Departing,10022
+Stansted,2020-04-27 00:00:00,Arriving,120
+Stansted,2020-05-04 00:00:00,Arriving,166
+Stansted,2020-07-10 00:00:00,Arriving,4361
+Stansted,2020-05-16 00:00:00,Departing,172
+Stansted,2020-03-29 00:00:00,Departing,336
+Stansted,2020-08-09 00:00:00,Departing,13926
+Stansted,2020-10-11 00:00:00,Departing,6648
+Stansted,2020-10-21 00:00:00,Arriving,2661
+Stansted,2020-09-17 00:00:00,Arriving,7594
+Stansted,2020-10-24 00:00:00,Arriving,4534
+Stansted,2020-07-03 00:00:00,Departing,6463
+Stansted,2020-08-29 00:00:00,Departing,11710
+Stansted,2020-09-11 00:00:00,Departing,9768
+Stansted,2020-07-09 00:00:00,Arriving,2475
+Stansted,2020-07-22 00:00:00,Arriving,4740
+Stansted,2020-10-24 00:00:00,Departing,5182
+Stansted,2020-04-27 00:00:00,Departing,192
+Stansted,2020-10-22 00:00:00,Departing,3083
+Stansted,2020-04-09 00:00:00,Arriving,263
+Stansted,2020-04-16 00:00:00,Arriving,209
+Stansted,2020-09-11 00:00:00,Arriving,10712
+Stansted,2020-07-04 00:00:00,Departing,6944
+Stansted,2020-06-17 00:00:00,Departing,1239
+Stansted,2020-07-19 00:00:00,Arriving,6903
+Stansted,2020-09-20 00:00:00,Departing,9692
+Stansted,2020-10-21 00:00:00,Departing,2587
+Stansted,2020-10-03 00:00:00,Departing,6044
+Stansted,2020-10-14 00:00:00,Arriving,3718
+Stansted,2020-10-07 00:00:00,Departing,3841
+Stansted,2020-07-24 00:00:00,Arriving,5974
+Stansted,2020-10-20 00:00:00,Arriving,2563
+Stansted,2020-09-20 00:00:00,Arriving,12415
+Stansted,2020-10-22 00:00:00,Arriving,2844
+Stansted,2020-10-07 00:00:00,Arriving,4648
+Stansted,2020-04-29 00:00:00,Departing,170
+Stansted,2020-07-27 00:00:00,Departing,7395
+Stansted,2020-04-16 00:00:00,Departing,82
+Stansted,2020-05-23 00:00:00,Departing,79
+Stansted,2020-07-09 00:00:00,Departing,5859
+Stansted,2020-06-14 00:00:00,Arriving,445
+Stansted,2020-05-24 00:00:00,Arriving,441
+Stansted,2020-10-03 00:00:00,Arriving,6681
+Stansted,2020-05-16 00:00:00,Arriving,116
+Stansted,2020-05-04 00:00:00,Departing,236
+Stansted,2020-06-27 00:00:00,Arriving,700
+Stansted,2020-06-07 00:00:00,Departing,913
+Stansted,2020-04-10 00:00:00,Arriving,527
+Stansted,2020-04-21 00:00:00,Arriving,54
+Stansted,2020-05-24 00:00:00,Departing,396
+Stansted,2020-06-07 00:00:00,Arriving,800
+Stansted,2020-12-18 00:00:00,Arriving,6267
+Stansted,2020-11-06 00:00:00,Departing,4134
+Stansted,2020-11-01 00:00:00,Departing,5256
+Stansted,2020-11-06 00:00:00,Arriving,4291
+Stansted,2020-12-27 00:00:00,Departing,2117
+Stansted,2020-12-18 00:00:00,Departing,11438
+Stansted,2020-12-01 00:00:00,Departing,810
+Stansted,2020-11-05 00:00:00,Departing,2598
+Stansted,2020-12-01 00:00:00,Arriving,834
+Stansted,2020-11-24 00:00:00,Departing,517
+Stansted,2020-12-31 00:00:00,Arriving,1653
+Stansted,2020-11-24 00:00:00,Arriving,438
+Stansted,2020-12-21 00:00:00,Arriving,2091
+Stansted,2020-12-28 00:00:00,Arriving,2696
+Stansted,2020-11-19 00:00:00,Departing,523
+Stansted,2020-12-06 00:00:00,Departing,2132
+Manchester,2020-06-09 00:00:00,Arriving,517
+Manchester,2020-04-20 00:00:00,Arriving,367
+Manchester,2020-09-30 00:00:00,Arriving,7542
+Manchester,2020-08-06 00:00:00,Departing,7347
+Manchester,2020-09-05 00:00:00,Arriving,9622
+Manchester,2020-08-16 00:00:00,Arriving,10398
+Manchester,2020-08-03 00:00:00,Arriving,7696
+Manchester,2020-09-30 00:00:00,Departing,6007
+Manchester,2020-09-07 00:00:00,Departing,8759
+Manchester,2020-04-03 00:00:00,Arriving,364
+Manchester,2020-04-06 00:00:00,Arriving,224
+Manchester,2020-04-05 00:00:00,Departing,82
+Manchester,2020-07-06 00:00:00,Departing,3254
+Manchester,2020-07-06 00:00:00,Arriving,1601
+Manchester,2020-04-30 00:00:00,Departing,173
+Manchester,2020-05-27 00:00:00,Departing,497
+Manchester,2020-05-28 00:00:00,Departing,89
+Manchester,2020-04-01 00:00:00,Arriving,383
+Manchester,2020-06-25 00:00:00,Departing,1007
+Manchester,2020-05-29 00:00:00,Arriving,265
+Manchester,2020-06-02 00:00:00,Arriving,474
+Manchester,2020-06-16 00:00:00,Arriving,175
+Manchester,2020-06-23 00:00:00,Departing,939
+Manchester,2020-04-04 00:00:00,Arriving,469
+Manchester,2020-10-08 00:00:00,Arriving,4528
+East Midlands,2020-10-03 00:00:00,Departing,1035
+East Midlands,2020-04-26 00:00:00,Arriving,0
+Manchester,2020-04-28 00:00:00,Arriving,397
+Manchester,2020-05-28 00:00:00,Arriving,371
+Manchester,2020-04-12 00:00:00,Arriving,468
+Manchester,2020-06-22 00:00:00,Departing,857
+Manchester,2020-06-08 00:00:00,Departing,261
+Manchester,2020-05-30 00:00:00,Departing,276
+Manchester,2020-05-19 00:00:00,Departing,128
+East Midlands,2020-06-14 00:00:00,Departing,0
+Manchester,2020-06-21 00:00:00,Departing,952
+East Midlands,2020-11-09 00:00:00,Departing,159
+East Midlands,2020-10-30 00:00:00,Departing,313
+East Midlands,2020-12-30 00:00:00,Departing,9
+East Midlands,2020-12-01 00:00:00,Departing,39
+East Midlands,2020-11-10 00:00:00,Arriving,280
+East Midlands,2020-11-09 00:00:00,Arriving,315
+East Midlands,2020-10-25 00:00:00,Departing,1111
+East Midlands,2020-12-18 00:00:00,Departing,889
+East Midlands,2020-11-10 00:00:00,Departing,107
+East Midlands,2020-12-13 00:00:00,Departing,228
+East Midlands,2020-12-26 00:00:00,Departing,0
+East Midlands,2020-11-12 00:00:00,Departing,60
+East Midlands,2020-11-04 00:00:00,Arriving,0
+East Midlands,2020-11-04 00:00:00,Departing,0
+East Midlands,2020-12-03 00:00:00,Departing,170
+Manchester,2020-10-30 00:00:00,Arriving,5843
+Manchester,2020-10-25 00:00:00,Departing,6549
+Manchester,2020-11-07 00:00:00,Departing,1404
+Manchester,2020-12-30 00:00:00,Arriving,2630
+Manchester,2020-11-13 00:00:00,Departing,1747
+Manchester,2020-11-20 00:00:00,Departing,2064
+Manchester,2020-12-22 00:00:00,Arriving,2512
+Manchester,2020-12-16 00:00:00,Departing,2542
+Manchester,2020-11-10 00:00:00,Arriving,2068
+Manchester,2020-11-16 00:00:00,Arriving,2138
+Manchester,2020-12-23 00:00:00,Departing,1775
+Manchester,2020-11-22 00:00:00,Departing,1908
+Manchester,2020-10-30 00:00:00,Departing,4071
+Manchester,2020-11-02 00:00:00,Arriving,4353
+Manchester,2020-11-21 00:00:00,Departing,1208
+Manchester,2020-11-08 00:00:00,Departing,1870
+Manchester,2020-11-08 00:00:00,Arriving,4503
+Manchester,2020-11-12 00:00:00,Departing,1345
+Manchester,2020-11-03 00:00:00,Arriving,2886
+Manchester,2020-11-12 00:00:00,Arriving,1787
+Manchester,2020-12-30 00:00:00,Departing,1463
+Manchester,2020-11-17 00:00:00,Arriving,1310
+Manchester,2020-11-26 00:00:00,Departing,1280
+Manchester,2020-11-17 00:00:00,Departing,967
+Manchester,2020-12-23 00:00:00,Arriving,2650
+Manchester,2020-11-04 00:00:00,Departing,4066
+Manchester,2020-12-22 00:00:00,Departing,1811
+Manchester,2020-11-04 00:00:00,Arriving,3187
+East Midlands,2020-11-22 00:00:00,Departing,29
+East Midlands,2020-12-26 00:00:00,Arriving,96
+Stansted,2020-01-07 00:00:00,Arriving,26416
+Stansted,2020-01-09 00:00:00,Arriving,24089
+Stansted,2020-01-09 00:00:00,Departing,18173
+Stansted,2020-01-19 00:00:00,Arriving,29503
+Stansted,2020-02-22 00:00:00,Departing,27385
+Stansted,2020-02-22 00:00:00,Arriving,33558
+Stansted,2020-02-24 00:00:00,Departing,24946
+Stansted,2020-02-26 00:00:00,Arriving,20687
+Stansted,2020-02-29 00:00:00,Departing,26078
+Stansted,2020-03-07 00:00:00,Arriving,22880
+Stansted,2020-03-07 00:00:00,Departing,24172
+Stansted,2020-03-09 00:00:00,Departing,22748
+Stansted,2020-03-10 00:00:00,Departing,14525
+Stansted,2020-03-16 00:00:00,Arriving,13787
+Stansted,2020-03-16 00:00:00,Departing,9618
+Stansted,2020-03-19 00:00:00,Arriving,6015
+Stansted,2020-07-15 00:00:00,Departing,6803
+Stansted,2020-06-22 00:00:00,Departing,1688
+Stansted,2020-06-02 00:00:00,Departing,297
+Stansted,2020-08-01 00:00:00,Departing,13382
+Stansted,2020-07-06 00:00:00,Arriving,2535
+Stansted,2020-07-13 00:00:00,Arriving,3967
+Stansted,2020-09-23 00:00:00,Departing,6768
+Stansted,2020-08-18 00:00:00,Arriving,10573
+Stansted,2020-08-27 00:00:00,Departing,9571
+Stansted,2020-08-20 00:00:00,Arriving,11126
+Stansted,2020-09-30 00:00:00,Arriving,7527
+Stansted,2020-08-18 00:00:00,Departing,8608
+Stansted,2020-08-27 00:00:00,Arriving,11667
+Stansted,2020-08-01 00:00:00,Arriving,10725
+Stansted,2020-09-12 00:00:00,Departing,8800
+Stansted,2020-10-17 00:00:00,Departing,4752
+Stansted,2020-06-28 00:00:00,Arriving,947
+Stansted,2020-07-02 00:00:00,Departing,5757
+Stansted,2020-07-17 00:00:00,Departing,8894
+Stansted,2020-07-20 00:00:00,Arriving,4803
+Stansted,2020-08-17 00:00:00,Arriving,11904
+Stansted,2020-07-06 00:00:00,Departing,5542
+Stansted,2020-09-26 00:00:00,Arriving,9763
+Stansted,2020-10-04 00:00:00,Arriving,9535
+East Midlands,2020-02-07 00:00:00,Arriving,2538
+East Midlands,2020-02-09 00:00:00,Arriving,2549
+East Midlands,2020-01-13 00:00:00,Arriving,2756
+East Midlands,2020-01-12 00:00:00,Departing,2416
+East Midlands,2020-01-20 00:00:00,Departing,2326
+East Midlands,2020-02-09 00:00:00,Departing,2545
+East Midlands,2020-02-01 00:00:00,Arriving,2761
+East Midlands,2020-02-21 00:00:00,Departing,3293
+East Midlands,2020-01-03 00:00:00,Arriving,3367
+East Midlands,2020-01-29 00:00:00,Arriving,1629
+East Midlands,2020-02-16 00:00:00,Departing,3549
+East Midlands,2020-01-29 00:00:00,Departing,1452
+East Midlands,2020-01-27 00:00:00,Arriving,2598
+East Midlands,2020-03-15 00:00:00,Arriving,2816
+East Midlands,2020-02-24 00:00:00,Departing,3090
+East Midlands,2020-03-25 00:00:00,Departing,0
+East Midlands,2020-01-11 00:00:00,Departing,2713
+East Midlands,2020-01-16 00:00:00,Arriving,2049
+East Midlands,2020-03-28 00:00:00,Departing,0
+East Midlands,2020-03-25 00:00:00,Arriving,0
+East Midlands,2020-01-22 00:00:00,Departing,1375
+East Midlands,2020-01-03 00:00:00,Departing,3123
+East Midlands,2020-02-07 00:00:00,Departing,2851
+Manchester,2020-01-22 00:00:00,Departing,16599
+Manchester,2020-02-11 00:00:00,Departing,20337
+Manchester,2020-03-02 00:00:00,Arriving,24845
+Manchester,2020-03-13 00:00:00,Departing,18018
+Manchester,2020-01-15 00:00:00,Departing,16357
+Manchester,2020-01-17 00:00:00,Departing,23804
+Manchester,2020-02-18 00:00:00,Departing,21493
+Manchester,2020-02-24 00:00:00,Departing,24873
+Manchester,2020-01-21 00:00:00,Arriving,17632
+Manchester,2020-02-11 00:00:00,Arriving,19378
+Manchester,2020-01-21 00:00:00,Departing,16081
+Manchester,2020-03-16 00:00:00,Departing,9678
+Manchester,2020-01-20 00:00:00,Departing,23900
+Manchester,2020-03-04 00:00:00,Departing,17010
+Manchester,2020-01-20 00:00:00,Arriving,22667
+Manchester,2020-01-17 00:00:00,Arriving,26001
+Manchester,2020-03-02 00:00:00,Departing,23221
+Manchester,2020-02-13 00:00:00,Departing,25074
+Manchester,2020-02-09 00:00:00,Departing,23791
+Manchester,2020-02-26 00:00:00,Arriving,21697
+Manchester,2020-02-27 00:00:00,Arriving,24845
+Manchester,2020-02-09 00:00:00,Arriving,24586
+Manchester,2020-01-02 00:00:00,Departing,25556
+Manchester,2020-03-21 00:00:00,Departing,3154
+Manchester,2020-03-16 00:00:00,Arriving,17828
+Manchester,2020-03-21 00:00:00,Arriving,7339
+Manchester,2020-03-28 00:00:00,Departing,244
+East Midlands,2020-04-20 00:00:00,Arriving,0
+East Midlands,2020-06-26 00:00:00,Departing,188
+East Midlands,2020-09-21 00:00:00,Departing,1350
+East Midlands,2020-05-10 00:00:00,Departing,0
+East Midlands,2020-05-13 00:00:00,Arriving,0
+East Midlands,2020-06-03 00:00:00,Arriving,19
+East Midlands,2020-04-26 00:00:00,Departing,0
+East Midlands,2020-05-07 00:00:00,Departing,0
+East Midlands,2020-04-25 00:00:00,Arriving,0
+East Midlands,2020-06-27 00:00:00,Departing,0
+East Midlands,2020-08-12 00:00:00,Departing,1333
+East Midlands,2020-08-21 00:00:00,Departing,1973
+East Midlands,2020-05-04 00:00:00,Departing,0
+East Midlands,2020-09-04 00:00:00,Arriving,2089
+East Midlands,2020-07-09 00:00:00,Departing,681
+East Midlands,2020-08-23 00:00:00,Departing,1479
+East Midlands,2020-10-07 00:00:00,Departing,691
+East Midlands,2020-09-25 00:00:00,Arriving,1900
+East Midlands,2020-10-16 00:00:00,Arriving,1228
+East Midlands,2020-10-16 00:00:00,Departing,1083
+East Midlands,2020-07-16 00:00:00,Arriving,465
+East Midlands,2020-10-24 00:00:00,Arriving,1298
+East Midlands,2020-07-26 00:00:00,Arriving,1513
+East Midlands,2020-08-23 00:00:00,Arriving,1399
+East Midlands,2020-09-04 00:00:00,Departing,1824
+East Midlands,2020-07-11 00:00:00,Departing,1065
+East Midlands,2020-09-02 00:00:00,Arriving,1757
+East Midlands,2020-10-09 00:00:00,Departing,1007
+East Midlands,2020-10-21 00:00:00,Departing,577
+East Midlands,2020-10-11 00:00:00,Departing,922
+East Midlands,2020-08-14 00:00:00,Departing,2017
+East Midlands,2020-09-02 00:00:00,Departing,1062
+East Midlands,2020-10-06 00:00:00,Arriving,914
+East Midlands,2020-09-17 00:00:00,Departing,1200
+East Midlands,2020-09-13 00:00:00,Departing,1410
+East Midlands,2020-04-07 00:00:00,Arriving,0
+East Midlands,2020-05-20 00:00:00,Arriving,0
+East Midlands,2020-04-24 00:00:00,Arriving,0
+East Midlands,2020-03-30 00:00:00,Departing,0
+East Midlands,2020-05-11 00:00:00,Departing,0
+East Midlands,2020-06-27 00:00:00,Arriving,0
+East Midlands,2020-06-10 00:00:00,Departing,0
+East Midlands,2020-04-24 00:00:00,Departing,0
+East Midlands,2020-04-20 00:00:00,Departing,0
+East Midlands,2020-06-26 00:00:00,Arriving,54
+East Midlands,2020-09-22 00:00:00,Departing,935
+East Midlands,2020-05-18 00:00:00,Arriving,0
+East Midlands,2020-06-05 00:00:00,Departing,0
+East Midlands,2020-10-20 00:00:00,Arriving,389
+Manchester,2020-08-26 00:00:00,Departing,7770
+Manchester,2020-08-19 00:00:00,Arriving,8736
+Manchester,2020-09-13 00:00:00,Arriving,10443
+Manchester,2020-07-29 00:00:00,Departing,6183
+Manchester,2020-06-02 00:00:00,Departing,639
+Manchester,2020-06-16 00:00:00,Departing,340
+Manchester,2020-08-20 00:00:00,Departing,7098
+Manchester,2020-08-30 00:00:00,Departing,8586
+Manchester,2020-09-04 00:00:00,Arriving,10942
+Manchester,2020-07-29 00:00:00,Arriving,5739
+Manchester,2020-08-08 00:00:00,Arriving,6862
+Manchester,2020-07-23 00:00:00,Departing,5947
+Manchester,2020-09-04 00:00:00,Departing,9231
+Manchester,2020-10-01 00:00:00,Departing,5159
+Manchester,2020-08-28 00:00:00,Departing,9952
+Manchester,2020-09-10 00:00:00,Arriving,7079
+East Midlands,2020-01-08 00:00:00,Arriving,1691
+East Midlands,2020-02-14 00:00:00,Departing,3427
+East Midlands,2020-01-19 00:00:00,Arriving,2622
+East Midlands,2020-02-04 00:00:00,Arriving,1699
+East Midlands,2020-02-29 00:00:00,Arriving,2962
+East Midlands,2020-03-16 00:00:00,Departing,589
+East Midlands,2020-03-08 00:00:00,Departing,2967
+East Midlands,2020-02-19 00:00:00,Arriving,1841
+East Midlands,2020-03-08 00:00:00,Arriving,3106
+East Midlands,2020-02-15 00:00:00,Departing,3009
+East Midlands,2020-03-22 00:00:00,Departing,76
+East Midlands,2020-01-07 00:00:00,Arriving,2404
+East Midlands,2020-02-13 00:00:00,Arriving,2227
+East Midlands,2020-02-12 00:00:00,Arriving,1645
+East Midlands,2020-01-08 00:00:00,Departing,1248
+East Midlands,2020-02-12 00:00:00,Departing,1612
+East Midlands,2020-01-22 00:00:00,Arriving,1595
+East Midlands,2020-03-06 00:00:00,Arriving,2702
+East Midlands,2020-02-19 00:00:00,Departing,1763
+East Midlands,2020-01-13 00:00:00,Departing,2162
+East Midlands,2020-02-13 00:00:00,Departing,2758
+East Midlands,2020-02-22 00:00:00,Arriving,3616
+East Midlands,2020-02-04 00:00:00,Departing,1765
+East Midlands,2020-01-14 00:00:00,Departing,1497
+East Midlands,2020-03-12 00:00:00,Departing,2339
+East Midlands,2020-03-24 00:00:00,Departing,32
+Manchester,2020-02-12 00:00:00,Departing,20496
+Manchester,2020-01-01 00:00:00,Departing,18974
+Manchester,2020-01-09 00:00:00,Arriving,21999
+Manchester,2020-01-07 00:00:00,Arriving,23423
+Manchester,2020-01-23 00:00:00,Arriving,19417
+Manchester,2020-01-23 00:00:00,Departing,20831
+Manchester,2020-03-01 00:00:00,Departing,25344
+Manchester,2020-03-05 00:00:00,Departing,18960
+Manchester,2020-03-11 00:00:00,Departing,14336
+Manchester,2020-02-04 00:00:00,Arriving,17750
+Manchester,2020-02-26 00:00:00,Departing,19384
+Manchester,2020-02-27 00:00:00,Departing,23132
+Manchester,2020-01-09 00:00:00,Departing,18978
+Manchester,2020-02-02 00:00:00,Arriving,26503
+Manchester,2020-03-11 00:00:00,Arriving,16357
+East Midlands,2020-03-21 00:00:00,Arriving,915
+East Midlands,2020-08-02 00:00:00,Departing,1686
+East Midlands,2020-05-03 00:00:00,Arriving,0
+East Midlands,2020-06-08 00:00:00,Arriving,33
+East Midlands,2020-07-03 00:00:00,Arriving,234
+East Midlands,2020-08-09 00:00:00,Arriving,1319
+East Midlands,2020-03-29 00:00:00,Arriving,0
+East Midlands,2020-06-10 00:00:00,Arriving,39
+East Midlands,2020-06-15 00:00:00,Departing,0
+East Midlands,2020-06-30 00:00:00,Departing,0
+East Midlands,2020-06-22 00:00:00,Departing,119
+East Midlands,2020-04-01 00:00:00,Arriving,40
+East Midlands,2020-04-23 00:00:00,Departing,0
+East Midlands,2020-04-25 00:00:00,Departing,0
+East Midlands,2020-07-06 00:00:00,Arriving,305
+East Midlands,2020-08-22 00:00:00,Departing,1581
+East Midlands,2020-10-03 00:00:00,Arriving,1050
+East Midlands,2020-10-12 00:00:00,Departing,684
+East Midlands,2020-10-18 00:00:00,Departing,926
+East Midlands,2020-10-18 00:00:00,Arriving,889
+East Midlands,2020-09-08 00:00:00,Departing,1130
+East Midlands,2020-08-31 00:00:00,Departing,1712
+East Midlands,2020-09-14 00:00:00,Arriving,1892
+East Midlands,2020-07-03 00:00:00,Departing,784
+East Midlands,2020-07-09 00:00:00,Arriving,190
+East Midlands,2020-08-15 00:00:00,Departing,1539
+East Midlands,2020-10-22 00:00:00,Arriving,323
+East Midlands,2020-10-11 00:00:00,Arriving,1065
+East Midlands,2020-09-11 00:00:00,Arriving,2061
+East Midlands,2020-07-18 00:00:00,Departing,2023
+East Midlands,2020-09-28 00:00:00,Arriving,1723
+East Midlands,2020-09-14 00:00:00,Departing,1422
+East Midlands,2020-07-04 00:00:00,Departing,924
+East Midlands,2020-04-04 00:00:00,Arriving,0
+East Midlands,2020-04-10 00:00:00,Arriving,0
+East Midlands,2020-04-22 00:00:00,Departing,0
+East Midlands,2020-09-20 00:00:00,Arriving,1372
+East Midlands,2020-05-25 00:00:00,Departing,0
+East Midlands,2020-05-16 00:00:00,Arriving,0
+East Midlands,2020-08-29 00:00:00,Arriving,1785
+East Midlands,2020-05-08 00:00:00,Departing,0
+East Midlands,2020-06-25 00:00:00,Departing,0
+East Midlands,2020-04-16 00:00:00,Arriving,6
+East Midlands,2020-09-09 00:00:00,Departing,1008
+East Midlands,2020-05-28 00:00:00,Departing,0
+East Midlands,2020-09-09 00:00:00,Arriving,1347
+East Midlands,2020-05-19 00:00:00,Arriving,0
+East Midlands,2020-06-04 00:00:00,Departing,0
+East Midlands,2020-07-20 00:00:00,Arriving,1174
+East Midlands,2020-05-27 00:00:00,Arriving,0
+East Midlands,2020-06-22 00:00:00,Arriving,30
+East Midlands,2020-06-25 00:00:00,Arriving,0
+East Midlands,2020-08-31 00:00:00,Arriving,2522
+East Midlands,2020-06-01 00:00:00,Departing,0
+East Midlands,2020-06-08 00:00:00,Departing,0
+East Midlands,2020-07-02 00:00:00,Departing,609
+Manchester,2020-07-25 00:00:00,Departing,9112
+Manchester,2020-08-16 00:00:00,Departing,8622
+Manchester,2020-09-01 00:00:00,Departing,8030
+Manchester,2020-09-08 00:00:00,Arriving,8244
+Manchester,2020-07-08 00:00:00,Departing,3338
+Manchester,2020-10-17 00:00:00,Departing,5262
+Manchester,2020-09-09 00:00:00,Departing,7016
+Manchester,2020-06-28 00:00:00,Departing,1078
+Manchester,2020-08-04 00:00:00,Departing,8406
+Manchester,2020-10-12 00:00:00,Departing,4952
+Manchester,2020-08-04 00:00:00,Arriving,5789
+Manchester,2020-07-02 00:00:00,Departing,2656
+Manchester,2020-07-08 00:00:00,Arriving,1824
+Manchester,2020-08-15 00:00:00,Departing,9625
+Manchester,2020-10-04 00:00:00,Departing,4908
+Manchester,2020-09-08 00:00:00,Departing,6770
+Manchester,2020-09-26 00:00:00,Departing,8132
+Manchester,2020-09-09 00:00:00,Arriving,8553
+Manchester,2020-09-13 00:00:00,Departing,7591
+Manchester,2020-09-16 00:00:00,Arriving,8438
+Manchester,2020-10-11 00:00:00,Departing,4639
+Manchester,2020-09-16 00:00:00,Departing,6558
+Manchester,2020-09-23 00:00:00,Departing,6285
+Manchester,2020-08-08 00:00:00,Departing,9474
+Manchester,2020-08-30 00:00:00,Arriving,11688
+Manchester,2020-07-23 00:00:00,Arriving,4074
+Manchester,2020-09-19 00:00:00,Arriving,8898
+Manchester,2020-09-19 00:00:00,Departing,8529
+Manchester,2020-04-19 00:00:00,Arriving,388
+Manchester,2020-06-29 00:00:00,Departing,946
+Manchester,2020-08-13 00:00:00,Departing,7372
+Manchester,2020-07-09 00:00:00,Arriving,1498
+Manchester,2020-07-15 00:00:00,Departing,5777
+Manchester,2020-07-07 00:00:00,Departing,2183
+Manchester,2020-07-07 00:00:00,Arriving,1127
+Manchester,2020-07-09 00:00:00,Departing,2628
+Manchester,2020-03-30 00:00:00,Arriving,408
+Manchester,2020-04-01 00:00:00,Departing,166
+East Midlands,2020-05-04 00:00:00,Arriving,0
+East Midlands,2020-04-13 00:00:00,Arriving,0
+Manchester,2020-05-05 00:00:00,Arriving,1075
+Manchester,2020-04-04 00:00:00,Departing,40
+Manchester,2020-05-29 00:00:00,Departing,263
+Manchester,2020-04-26 00:00:00,Arriving,594
+Manchester,2020-05-01 00:00:00,Arriving,395
+Manchester,2020-05-02 00:00:00,Arriving,458
+Manchester,2020-05-14 00:00:00,Arriving,46
+East Midlands,2020-05-03 00:00:00,Departing,0
+East Midlands,2020-05-10 00:00:00,Arriving,0
+Manchester,2020-06-10 00:00:00,Arriving,524
+East Midlands,2020-02-08 00:00:00,Departing,2914
+Manchester,2020-06-24 00:00:00,Arriving,646
+Manchester,2020-04-22 00:00:00,Arriving,343
+East Midlands,2020-10-26 00:00:00,Departing,527
+East Midlands,2020-10-29 00:00:00,Departing,421
+East Midlands,2020-10-29 00:00:00,Arriving,700
+East Midlands,2020-12-06 00:00:00,Arriving,55
+East Midlands,2020-12-10 00:00:00,Arriving,172
+East Midlands,2020-10-28 00:00:00,Arriving,616
+East Midlands,2020-10-28 00:00:00,Departing,231
+East Midlands,2020-12-04 00:00:00,Arriving,64
+Manchester,2020-11-30 00:00:00,Arriving,1936
+Manchester,2020-12-10 00:00:00,Arriving,2472
+Manchester,2020-12-07 00:00:00,Departing,3529
+Manchester,2020-12-07 00:00:00,Arriving,2444
+Manchester,2020-12-26 00:00:00,Departing,2151
+Manchester,2020-12-12 00:00:00,Departing,4192
+Manchester,2020-11-09 00:00:00,Departing,1486
+Manchester,2020-12-12 00:00:00,Arriving,3336
+Manchester,2020-11-10 00:00:00,Departing,1187
+Manchester,2020-12-10 00:00:00,Departing,3928
+Manchester,2020-10-27 00:00:00,Departing,2598
+Manchester,2020-11-30 00:00:00,Departing,1440
+Manchester,2020-11-09 00:00:00,Arriving,2778
+Manchester,2020-10-27 00:00:00,Arriving,3187
+Manchester,2020-06-11 00:00:00,Arriving,403
+East Midlands,2020-10-31 00:00:00,Arriving,1270
+East Midlands,2020-11-29 00:00:00,Departing,20
+East Midlands,2020-11-29 00:00:00,Arriving,35
+Manchester,2020-12-01 00:00:00,Arriving,1616
+Manchester,2020-12-01 00:00:00,Departing,1211
+East Midlands,2020-12-28 00:00:00,Arriving,269
+East Midlands,2020-12-25 00:00:00,Arriving,18
+Stansted,2020-01-02 00:00:00,Arriving,33289
+Stansted,2020-01-08 00:00:00,Departing,13452
+Stansted,2020-01-14 00:00:00,Arriving,15728
+Stansted,2020-01-14 00:00:00,Departing,13106
+Stansted,2020-01-15 00:00:00,Arriving,15517
+Stansted,2020-01-17 00:00:00,Departing,27474
+Stansted,2020-01-17 00:00:00,Arriving,28374
+Stansted,2020-01-19 00:00:00,Departing,27812
+Stansted,2020-01-20 00:00:00,Departing,24622
+Stansted,2020-01-20 00:00:00,Arriving,25420
+Stansted,2020-01-21 00:00:00,Arriving,15693
+Stansted,2020-01-21 00:00:00,Departing,14148
+Stansted,2020-01-28 00:00:00,Arriving,15390
+Stansted,2020-02-02 00:00:00,Departing,28154
+Stansted,2020-02-04 00:00:00,Departing,18340
+Stansted,2020-02-18 00:00:00,Arriving,21593
+Stansted,2020-02-26 00:00:00,Departing,18890
+Stansted,2020-02-27 00:00:00,Arriving,24036
+Stansted,2020-03-02 00:00:00,Departing,24612
+Stansted,2020-03-02 00:00:00,Arriving,24869
+Stansted,2020-03-04 00:00:00,Arriving,15918
+Stansted,2020-03-04 00:00:00,Departing,16716
+Stansted,2020-03-13 00:00:00,Arriving,15280
+Stansted,2020-03-19 00:00:00,Departing,4953
+Stansted,2020-03-21 00:00:00,Arriving,2873
+Stansted,2020-03-21 00:00:00,Departing,3077
+Stansted,2020-03-26 00:00:00,Arriving,55
+Stansted,2020-03-27 00:00:00,Departing,269
+Stansted,2020-03-27 00:00:00,Arriving,75
+Stansted,2020-08-06 00:00:00,Arriving,7828
+Stansted,2020-09-16 00:00:00,Arriving,8140
+Stansted,2020-05-27 00:00:00,Departing,462
+Stansted,2020-08-16 00:00:00,Departing,13040
+Stansted,2020-06-10 00:00:00,Departing,957
+Stansted,2020-08-26 00:00:00,Arriving,11854
+Stansted,2020-08-03 00:00:00,Departing,11406
+Stansted,2020-08-20 00:00:00,Departing,9699
+Stansted,2020-09-07 00:00:00,Departing,7376
+Stansted,2020-08-28 00:00:00,Arriving,14117
+Stansted,2020-08-03 00:00:00,Arriving,8956
+Stansted,2020-09-04 00:00:00,Arriving,12451
+Stansted,2020-10-01 00:00:00,Arriving,5475
+Stansted,2020-04-26 00:00:00,Departing,124
+Stansted,2020-09-09 00:00:00,Departing,6720
+Stansted,2020-09-07 00:00:00,Arriving,10349
+Stansted,2020-07-23 00:00:00,Arriving,4948
+Stansted,2020-05-02 00:00:00,Arriving,98
+Stansted,2020-07-22 00:00:00,Departing,7915
+Stansted,2020-08-16 00:00:00,Arriving,15455
+Stansted,2020-08-19 00:00:00,Departing,9978
+Stansted,2020-08-06 00:00:00,Departing,11037
+Stansted,2020-09-27 00:00:00,Arriving,11803
+Stansted,2020-04-01 00:00:00,Departing,139
+Stansted,2020-07-08 00:00:00,Departing,5208
+Stansted,2020-09-30 00:00:00,Departing,6388
+East Midlands,2020-02-27 00:00:00,Arriving,2796
+East Midlands,2020-03-22 00:00:00,Arriving,608
+East Midlands,2020-01-01 00:00:00,Departing,1490
+East Midlands,2020-03-02 00:00:00,Arriving,2974
+East Midlands,2020-03-16 00:00:00,Arriving,2291
+East Midlands,2020-03-02 00:00:00,Departing,2761
+East Midlands,2020-02-27 00:00:00,Departing,2663
+East Midlands,2020-02-15 00:00:00,Arriving,1967
+East Midlands,2020-03-10 00:00:00,Departing,1894
+East Midlands,2020-01-15 00:00:00,Departing,1406
+East Midlands,2020-01-17 00:00:00,Departing,2774
+East Midlands,2020-01-10 00:00:00,Departing,2627
+East Midlands,2020-01-21 00:00:00,Arriving,1760
+East Midlands,2020-03-12 00:00:00,Arriving,2056
+East Midlands,2020-02-26 00:00:00,Departing,2194
+East Midlands,2020-01-14 00:00:00,Arriving,1904
+East Midlands,2020-03-05 00:00:00,Departing,2470
+East Midlands,2020-02-17 00:00:00,Departing,3212
+East Midlands,2020-02-11 00:00:00,Departing,2051
+East Midlands,2020-01-21 00:00:00,Departing,1729
+Manchester,2020-03-20 00:00:00,Arriving,9717
+Manchester,2020-02-17 00:00:00,Departing,28404
+Manchester,2020-03-10 00:00:00,Departing,15358
+Manchester,2020-01-25 00:00:00,Arriving,20589
+Manchester,2020-01-10 00:00:00,Departing,23068
+Manchester,2020-01-06 00:00:00,Departing,24344
+Manchester,2020-01-16 00:00:00,Departing,20273
+Manchester,2020-01-25 00:00:00,Departing,21790
+Manchester,2020-03-09 00:00:00,Departing,22712
+Manchester,2020-01-01 00:00:00,Arriving,20903
+Manchester,2020-01-26 00:00:00,Departing,24029
+Manchester,2020-02-02 00:00:00,Departing,26950
+Manchester,2020-02-28 00:00:00,Departing,26571
+Manchester,2020-01-06 00:00:00,Arriving,27207
+Manchester,2020-03-01 00:00:00,Arriving,27637
+Manchester,2020-02-17 00:00:00,Arriving,25541
+Manchester,2020-02-25 00:00:00,Departing,22211
+Manchester,2020-01-10 00:00:00,Arriving,27278
+Manchester,2020-03-09 00:00:00,Arriving,21407
+East Midlands,2020-04-06 00:00:00,Arriving,0
+East Midlands,2020-06-29 00:00:00,Arriving,59
+East Midlands,2020-07-29 00:00:00,Departing,1029
+East Midlands,2020-04-06 00:00:00,Departing,0
+East Midlands,2020-08-04 00:00:00,Departing,1412
+East Midlands,2020-09-10 00:00:00,Departing,1183
+East Midlands,2020-05-23 00:00:00,Arriving,0
+East Midlands,2020-06-11 00:00:00,Arriving,0
+East Midlands,2020-06-02 00:00:00,Arriving,0
+East Midlands,2020-06-20 00:00:00,Arriving,0
+East Midlands,2020-07-17 00:00:00,Arriving,780
+East Midlands,2020-05-02 00:00:00,Departing,0
+East Midlands,2020-05-30 00:00:00,Departing,0
+East Midlands,2020-06-21 00:00:00,Arriving,19
+East Midlands,2020-08-05 00:00:00,Arriving,1267
+East Midlands,2020-09-16 00:00:00,Arriving,1336
+East Midlands,2020-08-19 00:00:00,Departing,1347
+East Midlands,2020-09-19 00:00:00,Departing,1322
+East Midlands,2020-03-31 00:00:00,Departing,0
+East Midlands,2020-04-11 00:00:00,Arriving,0
+East Midlands,2020-04-30 00:00:00,Arriving,0
+East Midlands,2020-05-01 00:00:00,Departing,0
+East Midlands,2020-07-08 00:00:00,Departing,500
+East Midlands,2020-07-02 00:00:00,Arriving,83
+East Midlands,2020-10-01 00:00:00,Departing,891
+East Midlands,2020-08-27 00:00:00,Arriving,1039
+East Midlands,2020-07-07 00:00:00,Departing,701
+East Midlands,2020-08-13 00:00:00,Departing,1394
+East Midlands,2020-09-03 00:00:00,Arriving,1005
+East Midlands,2020-09-12 00:00:00,Departing,1417
+East Midlands,2020-08-07 00:00:00,Departing,2056
+East Midlands,2020-08-04 00:00:00,Arriving,1215
+East Midlands,2020-09-23 00:00:00,Arriving,1143
+East Midlands,2020-09-27 00:00:00,Departing,1269
+East Midlands,2020-09-16 00:00:00,Departing,922
+East Midlands,2020-08-05 00:00:00,Departing,1426
+East Midlands,2020-08-22 00:00:00,Arriving,1803
+East Midlands,2020-10-12 00:00:00,Arriving,1150
+East Midlands,2020-09-08 00:00:00,Arriving,1352
+East Midlands,2020-07-15 00:00:00,Arriving,486
+East Midlands,2020-09-03 00:00:00,Departing,1092
+East Midlands,2020-08-08 00:00:00,Departing,1503
+East Midlands,2020-09-10 00:00:00,Arriving,900
+East Midlands,2020-06-11 00:00:00,Departing,0
+East Midlands,2020-07-25 00:00:00,Departing,2169
+East Midlands,2020-04-04 00:00:00,Departing,0
+East Midlands,2020-06-20 00:00:00,Departing,0
+East Midlands,2020-05-14 00:00:00,Departing,0
+East Midlands,2020-06-29 00:00:00,Departing,152
+East Midlands,2020-05-28 00:00:00,Arriving,0
+East Midlands,2020-04-27 00:00:00,Arriving,0
+East Midlands,2020-07-08 00:00:00,Arriving,284
+East Midlands,2020-06-06 00:00:00,Departing,0
+East Midlands,2020-07-15 00:00:00,Departing,918
+Manchester,2020-08-19 00:00:00,Departing,7542
+Manchester,2020-08-17 00:00:00,Departing,8256
+Manchester,2020-08-07 00:00:00,Arriving,7284
+Manchester,2020-08-07 00:00:00,Departing,9840
+Manchester,2020-10-12 00:00:00,Arriving,5907
+Manchester,2020-10-04 00:00:00,Arriving,8621
+Manchester,2020-09-26 00:00:00,Arriving,8587
+Manchester,2020-07-21 00:00:00,Arriving,3495
+Manchester,2020-07-31 00:00:00,Arriving,6084
+Manchester,2020-07-21 00:00:00,Departing,6002
+Manchester,2020-09-27 00:00:00,Departing,7113
+Manchester,2020-07-02 00:00:00,Arriving,1616
+Manchester,2020-10-17 00:00:00,Arriving,5793
+Manchester,2020-04-17 00:00:00,Departing,113
+Manchester,2020-10-14 00:00:00,Departing,4271
+Manchester,2020-06-30 00:00:00,Arriving,618
+Manchester,2020-10-05 00:00:00,Arriving,6791
+Manchester,2020-04-21 00:00:00,Departing,92
+Manchester,2020-04-02 00:00:00,Arriving,229
+Manchester,2020-05-13 00:00:00,Arriving,410
+Manchester,2020-05-22 00:00:00,Arriving,284
+Manchester,2020-06-19 00:00:00,Departing,322
+Stansted,2020-07-02 00:00:00,Arriving,2370
+Stansted,2020-09-10 00:00:00,Arriving,8500
+Stansted,2020-04-03 00:00:00,Arriving,91
+Stansted,2020-06-08 00:00:00,Departing,767
+Stansted,2020-06-01 00:00:00,Departing,638
+Stansted,2020-04-01 00:00:00,Arriving,124
+Stansted,2020-05-19 00:00:00,Arriving,131
+Stansted,2020-05-27 00:00:00,Arriving,440
+Stansted,2020-06-24 00:00:00,Arriving,704
+Stansted,2020-06-23 00:00:00,Departing,1608
+Stansted,2020-06-16 00:00:00,Arriving,333
+Stansted,2020-05-19 00:00:00,Departing,153
+Stansted,2020-06-11 00:00:00,Arriving,262
+Stansted,2020-05-14 00:00:00,Arriving,117
+Stansted,2020-04-06 00:00:00,Departing,297
+Stansted,2020-04-12 00:00:00,Arriving,291
+Stansted,2020-04-22 00:00:00,Arriving,179
+Stansted,2020-05-01 00:00:00,Departing,218
+Stansted,2020-06-15 00:00:00,Departing,904
+Stansted,2020-04-04 00:00:00,Arriving,145
+Stansted,2020-06-13 00:00:00,Arriving,222
+Stansted,2020-12-24 00:00:00,Arriving,1054
+Stansted,2020-11-20 00:00:00,Departing,1381
+Stansted,2020-10-25 00:00:00,Arriving,6760
+Stansted,2020-10-25 00:00:00,Departing,6977
+Stansted,2020-12-23 00:00:00,Departing,1159
+Stansted,2020-11-08 00:00:00,Departing,3545
+Stansted,2020-10-27 00:00:00,Arriving,2752
+Stansted,2020-10-30 00:00:00,Arriving,6787
+Stansted,2020-10-30 00:00:00,Departing,5718
+Stansted,2020-12-12 00:00:00,Departing,2643
+Stansted,2020-11-02 00:00:00,Arriving,5311
+Stansted,2020-11-04 00:00:00,Arriving,3953
+Stansted,2020-10-27 00:00:00,Departing,2593
+Stansted,2020-11-10 00:00:00,Arriving,2298
+Stansted,2020-12-30 00:00:00,Departing,1509
+Stansted,2020-11-09 00:00:00,Arriving,2897
+Stansted,2020-11-16 00:00:00,Arriving,2339
+Stansted,2020-11-26 00:00:00,Departing,625
+Stansted,2020-12-08 00:00:00,Arriving,467
+Stansted,2020-12-12 00:00:00,Arriving,1678
+Stansted,2020-11-30 00:00:00,Arriving,1208
+Stansted,2020-11-16 00:00:00,Departing,1643
+Stansted,2020-05-02 00:00:00,Departing,78
+Stansted,2020-06-15 00:00:00,Arriving,469
+Manchester,2020-04-06 00:00:00,Departing,83
+Manchester,2020-05-02 00:00:00,Departing,49
+Stansted,2020-04-04 00:00:00,Departing,218
+East Midlands,2020-01-25 00:00:00,Departing,2888
+East Midlands,2020-01-06 00:00:00,Departing,2364
+East Midlands,2020-03-01 00:00:00,Departing,3209
+East Midlands,2020-02-06 00:00:00,Arriving,2047
+East Midlands,2020-01-18 00:00:00,Arriving,2827
+East Midlands,2020-02-08 00:00:00,Arriving,2860
+East Midlands,2020-03-23 00:00:00,Arriving,190
+East Midlands,2020-03-20 00:00:00,Arriving,1210
+East Midlands,2020-02-02 00:00:00,Departing,2595
+East Midlands,2020-03-20 00:00:00,Departing,152
+East Midlands,2020-01-09 00:00:00,Arriving,2059
+East Midlands,2020-03-07 00:00:00,Arriving,3033
+East Midlands,2020-03-03 00:00:00,Arriving,2259
+East Midlands,2020-03-17 00:00:00,Arriving,1399
+East Midlands,2020-02-02 00:00:00,Arriving,2617
+East Midlands,2020-03-14 00:00:00,Departing,1122
+East Midlands,2020-01-24 00:00:00,Arriving,2584
+East Midlands,2020-03-01 00:00:00,Arriving,3151
+East Midlands,2020-01-23 00:00:00,Arriving,2148
+East Midlands,2020-03-23 00:00:00,Departing,72
+Manchester,2020-03-18 00:00:00,Arriving,12534
+Manchester,2020-03-25 00:00:00,Arriving,1605
+Manchester,2020-03-14 00:00:00,Departing,12895
+Manchester,2020-02-14 00:00:00,Departing,29488
+Manchester,2020-02-13 00:00:00,Arriving,21000
+Manchester,2020-03-26 00:00:00,Departing,890
+Manchester,2020-01-04 00:00:00,Arriving,28158
+Manchester,2020-02-14 00:00:00,Arriving,25294
+Manchester,2020-03-20 00:00:00,Departing,5434
+Manchester,2020-01-13 00:00:00,Departing,21755
+Manchester,2020-02-23 00:00:00,Departing,24655
+Manchester,2020-01-27 00:00:00,Departing,21893
+Manchester,2020-02-01 00:00:00,Arriving,22257
+Manchester,2020-03-14 00:00:00,Arriving,18413
+Manchester,2020-02-05 00:00:00,Arriving,16105
+Manchester,2020-03-08 00:00:00,Departing,22454
+Manchester,2020-02-19 00:00:00,Departing,20318
+Manchester,2020-03-22 00:00:00,Arriving,6474
+Manchester,2020-02-01 00:00:00,Departing,23402
+Manchester,2020-03-22 00:00:00,Departing,3237
+Manchester,2020-03-17 00:00:00,Arriving,14661
+Manchester,2020-03-24 00:00:00,Arriving,3640
+East Midlands,2020-07-28 00:00:00,Departing,1037
+East Midlands,2020-09-01 00:00:00,Departing,1231
+East Midlands,2020-09-29 00:00:00,Departing,803
+East Midlands,2020-07-28 00:00:00,Arriving,1366
+East Midlands,2020-07-31 00:00:00,Arriving,1402
+East Midlands,2020-04-17 00:00:00,Departing,0
+East Midlands,2020-05-09 00:00:00,Departing,0
+East Midlands,2020-06-28 00:00:00,Arriving,37
+East Midlands,2020-05-24 00:00:00,Arriving,0
+East Midlands,2020-05-26 00:00:00,Arriving,0
+East Midlands,2020-07-31 00:00:00,Departing,1705
+East Midlands,2020-07-21 00:00:00,Arriving,838
+East Midlands,2020-10-02 00:00:00,Departing,1123
+East Midlands,2020-10-05 00:00:00,Arriving,1361
+East Midlands,2020-10-05 00:00:00,Departing,778
+East Midlands,2020-09-17 00:00:00,Arriving,808
+East Midlands,2020-10-17 00:00:00,Arriving,1111
+East Midlands,2020-10-17 00:00:00,Departing,1416
+East Midlands,2020-07-21 00:00:00,Departing,1420
+East Midlands,2020-07-24 00:00:00,Departing,2138
+East Midlands,2020-10-13 00:00:00,Departing,412
+East Midlands,2020-06-17 00:00:00,Departing,0
+East Midlands,2020-10-21 00:00:00,Arriving,760
+East Midlands,2020-06-09 00:00:00,Arriving,0
+East Midlands,2020-08-19 00:00:00,Arriving,1648
+East Midlands,2020-05-22 00:00:00,Arriving,0
+East Midlands,2020-10-15 00:00:00,Arriving,178
+East Midlands,2020-04-30 00:00:00,Departing,0
+East Midlands,2020-10-14 00:00:00,Arriving,873
+East Midlands,2020-04-29 00:00:00,Departing,0
+East Midlands,2020-06-19 00:00:00,Departing,0
+East Midlands,2020-04-02 00:00:00,Departing,0
+East Midlands,2020-05-17 00:00:00,Arriving,0
+East Midlands,2020-05-13 00:00:00,Departing,0
+Manchester,2020-07-18 00:00:00,Arriving,3299
+Manchester,2020-06-24 00:00:00,Departing,906
+Manchester,2020-07-04 00:00:00,Departing,2859
+Manchester,2020-07-11 00:00:00,Departing,3568
+Manchester,2020-07-16 00:00:00,Departing,5821
+Manchester,2020-04-11 00:00:00,Departing,133
+Manchester,2020-10-09 00:00:00,Departing,6098
+Manchester,2020-09-29 00:00:00,Arriving,7093
+Manchester,2020-03-31 00:00:00,Departing,228
+Manchester,2020-08-29 00:00:00,Arriving,9481
+Manchester,2020-09-28 00:00:00,Departing,7349
+Manchester,2020-07-12 00:00:00,Departing,3467
+Manchester,2020-07-18 00:00:00,Departing,7088
+Manchester,2020-09-11 00:00:00,Departing,9274
+Manchester,2020-09-29 00:00:00,Departing,5513
+Manchester,2020-09-03 00:00:00,Arriving,7954
+Manchester,2020-10-02 00:00:00,Arriving,8637
+Manchester,2020-03-30 00:00:00,Departing,359
+Manchester,2020-09-03 00:00:00,Departing,6752
+Manchester,2020-09-20 00:00:00,Departing,7464
+Manchester,2020-10-22 00:00:00,Arriving,3220
+Manchester,2020-07-26 00:00:00,Departing,6915
+Manchester,2020-08-24 00:00:00,Departing,8711
+Manchester,2020-10-15 00:00:00,Arriving,3569
+Manchester,2020-10-06 00:00:00,Arriving,5575
+Manchester,2020-09-17 00:00:00,Arriving,6594
+Manchester,2020-10-25 00:00:00,Arriving,6205
+Manchester,2020-10-02 00:00:00,Departing,6942
+Manchester,2020-05-17 00:00:00,Departing,100
+Manchester,2020-10-22 00:00:00,Departing,2941
+Manchester,2020-07-11 00:00:00,Arriving,1843
+Manchester,2020-10-03 00:00:00,Arriving,7793
+Manchester,2020-06-26 00:00:00,Departing,858
+Manchester,2020-08-31 00:00:00,Departing,8798
+Manchester,2020-06-17 00:00:00,Departing,413
+Manchester,2020-04-14 00:00:00,Departing,57
+Manchester,2020-04-16 00:00:00,Departing,65
+Manchester,2020-04-07 00:00:00,Departing,80
+Manchester,2020-04-09 00:00:00,Departing,117
+East Midlands,2020-06-07 00:00:00,Departing,0
+East Midlands,2020-08-30 00:00:00,Departing,1623
+Manchester,2020-04-02 00:00:00,Departing,46
+Manchester,2020-04-08 00:00:00,Departing,145
+Manchester,2020-04-24 00:00:00,Departing,57
+Manchester,2020-05-14 00:00:00,Departing,58
+Manchester,2020-04-12 00:00:00,Departing,88
+Manchester,2020-04-17 00:00:00,Arriving,134
+East Midlands,2020-05-25 00:00:00,Arriving,0
+Manchester,2020-05-18 00:00:00,Arriving,440
+Manchester,2020-06-20 00:00:00,Arriving,312
+Manchester,2020-05-12 00:00:00,Departing,131
+East Midlands,2020-10-04 00:00:00,Arriving,1353
+Manchester,2020-06-03 00:00:00,Departing,353
+Manchester,2020-06-20 00:00:00,Departing,518
+East Midlands,2020-06-15 00:00:00,Arriving,0
+Manchester,2020-06-06 00:00:00,Departing,442
+East Midlands,2020-12-23 00:00:00,Departing,42
+East Midlands,2020-12-08 00:00:00,Departing,120
+East Midlands,2020-11-11 00:00:00,Arriving,0
+East Midlands,2020-11-18 00:00:00,Arriving,0
+East Midlands,2020-11-21 00:00:00,Departing,179
+East Midlands,2020-11-25 00:00:00,Arriving,0
+East Midlands,2020-11-26 00:00:00,Arriving,27
+East Midlands,2020-11-21 00:00:00,Arriving,185
+East Midlands,2020-12-12 00:00:00,Departing,528
+East Midlands,2020-11-15 00:00:00,Arriving,404
+East Midlands,2020-12-10 00:00:00,Departing,161
+East Midlands,2020-12-23 00:00:00,Arriving,81
+East Midlands,2020-12-24 00:00:00,Arriving,70
+East Midlands,2020-12-08 00:00:00,Arriving,9
+East Midlands,2020-12-11 00:00:00,Departing,225
+East Midlands,2020-12-05 00:00:00,Departing,561
+East Midlands,2020-12-24 00:00:00,Departing,44
+East Midlands,2020-11-28 00:00:00,Departing,62
+East Midlands,2020-12-05 00:00:00,Arriving,307
+East Midlands,2020-12-07 00:00:00,Departing,73
+East Midlands,2020-11-30 00:00:00,Departing,19
+Manchester,2020-12-05 00:00:00,Arriving,2275
+Manchester,2020-11-11 00:00:00,Arriving,1851
+Manchester,2020-11-23 00:00:00,Arriving,1762
+Manchester,2020-12-24 00:00:00,Arriving,2444
+Manchester,2020-12-14 00:00:00,Arriving,2753
+Manchester,2020-12-31 00:00:00,Departing,1473
+Manchester,2020-12-21 00:00:00,Departing,4112
+Manchester,2020-12-20 00:00:00,Arriving,5077
+Manchester,2020-12-20 00:00:00,Departing,6824
+Manchester,2020-11-16 00:00:00,Departing,1497
+Manchester,2020-12-24 00:00:00,Departing,1838
+Manchester,2020-11-15 00:00:00,Arriving,2395
+Manchester,2020-11-28 00:00:00,Arriving,1883
+Manchester,2020-11-27 00:00:00,Departing,1816
+Manchester,2020-10-29 00:00:00,Departing,2531
+Manchester,2020-11-15 00:00:00,Departing,1711
+Manchester,2020-10-28 00:00:00,Arriving,4340
+Manchester,2020-11-18 00:00:00,Arriving,1026
+Manchester,2020-12-08 00:00:00,Arriving,1702
+Manchester,2020-12-14 00:00:00,Departing,3388
+East Midlands,2020-06-13 00:00:00,Departing,0
+Manchester,2020-06-19 00:00:00,Arriving,589
+East Midlands,2020-10-04 00:00:00,Departing,1079
+Manchester,2020-12-15 00:00:00,Departing,2821
+Manchester,2020-12-09 00:00:00,Departing,2383
+East Midlands,2021-01-01 00:00:00,Arriving,39
+Stansted,2020-01-01 00:00:00,Departing,21507
+Stansted,2020-01-04 00:00:00,Arriving,33575
+Stansted,2020-01-06 00:00:00,Departing,23532
+Stansted,2020-01-06 00:00:00,Arriving,32285
+Stansted,2020-01-12 00:00:00,Departing,25644
+Stansted,2020-01-26 00:00:00,Departing,28867
+Stansted,2020-01-30 00:00:00,Arriving,22723
+Stansted,2020-02-03 00:00:00,Departing,24962
+Stansted,2020-02-06 00:00:00,Arriving,21958
+Stansted,2020-02-10 00:00:00,Departing,27116
+Stansted,2020-02-20 00:00:00,Departing,25951
+Stansted,2020-02-23 00:00:00,Departing,27773
+Stansted,2020-02-28 00:00:00,Arriving,27504
+Stansted,2020-03-11 00:00:00,Departing,14318
+Stansted,2020-03-11 00:00:00,Arriving,14753
+Stansted,2020-03-18 00:00:00,Arriving,6533
+Stansted,2020-05-06 00:00:00,Arriving,167
+Stansted,2020-05-20 00:00:00,Arriving,357
+Stansted,2020-08-07 00:00:00,Arriving,9155
+Stansted,2020-08-07 00:00:00,Departing,12886
+Stansted,2020-09-18 00:00:00,Departing,10028
+Stansted,2020-05-31 00:00:00,Arriving,486
+Stansted,2020-07-12 00:00:00,Departing,7221
+Stansted,2020-10-04 00:00:00,Departing,7496
+Stansted,2020-08-25 00:00:00,Arriving,11133
+Stansted,2020-08-23 00:00:00,Departing,11742
+Stansted,2020-04-02 00:00:00,Arriving,57
+Stansted,2020-07-05 00:00:00,Arriving,3013
+Stansted,2020-09-25 00:00:00,Departing,9657
+Stansted,2020-08-11 00:00:00,Departing,9247
+Stansted,2020-07-28 00:00:00,Departing,6152
+Stansted,2020-09-01 00:00:00,Departing,6486
+Stansted,2020-07-30 00:00:00,Arriving,5984
+Stansted,2020-07-28 00:00:00,Arriving,5476
+Stansted,2020-04-12 00:00:00,Departing,78
+Stansted,2020-04-15 00:00:00,Departing,116
+Stansted,2020-04-08 00:00:00,Arriving,281
+Stansted,2020-10-16 00:00:00,Departing,6681
+Stansted,2020-09-26 00:00:00,Departing,8622
+Stansted,2020-07-31 00:00:00,Departing,8263
+Stansted,2020-08-14 00:00:00,Departing,13117
+Stansted,2020-09-01 00:00:00,Arriving,9616
+Stansted,2020-07-30 00:00:00,Departing,6822
+Stansted,2020-10-10 00:00:00,Departing,4752
+Stansted,2020-09-25 00:00:00,Arriving,9557
+Stansted,2020-10-13 00:00:00,Arriving,3785
+Stansted,2020-09-24 00:00:00,Departing,7010
+Stansted,2020-10-10 00:00:00,Arriving,5600
+Stansted,2020-09-24 00:00:00,Arriving,7180
+Stansted,2020-09-22 00:00:00,Departing,5713
+Stansted,2020-04-02 00:00:00,Departing,66
+Stansted,2020-05-26 00:00:00,Departing,229
+Stansted,2020-04-24 00:00:00,Departing,183
+Stansted,2020-05-13 00:00:00,Departing,330
+Stansted,2020-05-26 00:00:00,Arriving,231
+Stansted,2020-05-13 00:00:00,Arriving,242
+Manchester,2020-09-21 00:00:00,Departing,7801
+Manchester,2020-08-11 00:00:00,Departing,8778
+Manchester,2020-03-29 00:00:00,Departing,253
+Manchester,2020-10-05 00:00:00,Departing,5366
+Manchester,2020-10-10 00:00:00,Arriving,6847
+Manchester,2020-09-22 00:00:00,Arriving,7636
+Manchester,2020-09-18 00:00:00,Departing,9213
+Manchester,2020-09-25 00:00:00,Departing,8927
+Manchester,2020-08-23 00:00:00,Departing,8214
+Manchester,2020-10-10 00:00:00,Departing,5306
+Manchester,2020-08-09 00:00:00,Departing,8910
+Manchester,2020-09-27 00:00:00,Arriving,10219
+Manchester,2020-07-30 00:00:00,Arriving,5162
+Manchester,2020-07-14 00:00:00,Departing,3266
+Manchester,2020-09-22 00:00:00,Departing,6047
+Manchester,2020-08-17 00:00:00,Arriving,8811
+Manchester,2020-10-24 00:00:00,Arriving,5681
+Manchester,2020-09-25 00:00:00,Arriving,9715
+Manchester,2020-07-05 00:00:00,Arriving,1649
+Manchester,2020-09-24 00:00:00,Departing,5656
+Manchester,2020-10-14 00:00:00,Arriving,4716
+Manchester,2020-07-24 00:00:00,Arriving,5268
+Manchester,2020-04-20 00:00:00,Departing,86
+Manchester,2020-08-14 00:00:00,Departing,9498
+Manchester,2020-06-27 00:00:00,Departing,782
+Manchester,2020-07-24 00:00:00,Departing,7747
+Manchester,2020-10-23 00:00:00,Departing,6131
+Manchester,2020-07-13 00:00:00,Arriving,2746
+Manchester,2020-07-01 00:00:00,Departing,2909
+Manchester,2020-09-24 00:00:00,Arriving,6045
+Manchester,2020-10-13 00:00:00,Arriving,4552
+East Midlands,2020-09-19 00:00:00,Arriving,1427
+East Midlands,2020-05-02 00:00:00,Arriving,0
+Manchester,2020-06-18 00:00:00,Departing,271
+Manchester,2020-04-15 00:00:00,Departing,128
+Manchester,2020-10-19 00:00:00,Arriving,4390
+Manchester,2020-07-28 00:00:00,Departing,5016
+Manchester,2020-04-13 00:00:00,Arriving,99
+Manchester,2020-04-21 00:00:00,Arriving,701
+Manchester,2020-06-06 00:00:00,Arriving,648
+Manchester,2020-05-21 00:00:00,Departing,79
+Manchester,2020-06-18 00:00:00,Arriving,385
+Manchester,2020-04-18 00:00:00,Arriving,392
+Manchester,2020-04-08 00:00:00,Arriving,750
+Manchester,2020-04-28 00:00:00,Departing,789
+Manchester,2020-04-15 00:00:00,Arriving,163
+East Midlands,2020-04-18 00:00:00,Arriving,0
+Manchester,2020-05-12 00:00:00,Arriving,92
+Manchester,2020-04-29 00:00:00,Arriving,476
+Manchester,2020-05-06 00:00:00,Arriving,691
+Manchester,2020-05-06 00:00:00,Departing,96
+Manchester,2020-05-07 00:00:00,Departing,76
+Manchester,2020-06-03 00:00:00,Arriving,291
+East Midlands,2020-11-17 00:00:00,Departing,133
+East Midlands,2020-11-27 00:00:00,Arriving,23
+East Midlands,2020-12-15 00:00:00,Arriving,183
+East Midlands,2020-11-03 00:00:00,Arriving,472
+East Midlands,2020-11-02 00:00:00,Departing,399
+East Midlands,2020-11-02 00:00:00,Arriving,768
+East Midlands,2020-12-13 00:00:00,Arriving,207
+East Midlands,2020-11-16 00:00:00,Arriving,288
+East Midlands,2020-10-27 00:00:00,Departing,265
+East Midlands,2020-12-11 00:00:00,Arriving,228
+East Midlands,2020-12-09 00:00:00,Arriving,50
+East Midlands,2020-11-30 00:00:00,Arriving,80
+East Midlands,2020-11-27 00:00:00,Departing,26
+East Midlands,2020-12-12 00:00:00,Arriving,289
+East Midlands,2020-11-03 00:00:00,Departing,493
+East Midlands,2020-11-28 00:00:00,Arriving,256
+East Midlands,2020-12-22 00:00:00,Departing,73
+Manchester,2020-12-02 00:00:00,Departing,1667
+Manchester,2020-12-27 00:00:00,Departing,2445
+Manchester,2020-10-29 00:00:00,Arriving,2543
+Manchester,2020-12-27 00:00:00,Arriving,4169
+Manchester,2020-11-06 00:00:00,Departing,2165
+Manchester,2020-11-03 00:00:00,Departing,3464
+Manchester,2020-12-31 00:00:00,Arriving,2330
+Manchester,2020-10-26 00:00:00,Departing,3966
+Manchester,2020-11-29 00:00:00,Departing,1915
+Manchester,2020-12-02 00:00:00,Arriving,1745
+Manchester,2020-12-09 00:00:00,Arriving,1556
+Manchester,2020-12-15 00:00:00,Arriving,2472
+East Midlands,2020-11-08 00:00:00,Departing,219
+Manchester,2020-11-27 00:00:00,Arriving,2509
+Manchester,2020-12-21 00:00:00,Arriving,3610
+East Midlands,2020-12-07 00:00:00,Arriving,48
+East Midlands,2020-11-16 00:00:00,Departing,148
+Stansted,2020-01-01 00:00:00,Arriving,25078
+Stansted,2020-01-03 00:00:00,Departing,29005
+Stansted,2020-01-05 00:00:00,Arriving,35204
+Stansted,2020-01-05 00:00:00,Departing,28196
+Stansted,2020-01-11 00:00:00,Arriving,27036
+Stansted,2020-01-11 00:00:00,Departing,21905
+Stansted,2020-01-12 00:00:00,Arriving,29148
+Stansted,2020-01-16 00:00:00,Departing,21660
+Stansted,2020-01-16 00:00:00,Arriving,23097
+Stansted,2020-01-18 00:00:00,Departing,24877
+Stansted,2020-01-24 00:00:00,Arriving,28472
+Stansted,2020-01-24 00:00:00,Departing,28773
+Stansted,2020-01-26 00:00:00,Arriving,29418
+Stansted,2020-01-29 00:00:00,Departing,14954
+Stansted,2020-02-08 00:00:00,Departing,27175
+Stansted,2020-02-08 00:00:00,Arriving,25656
+Stansted,2020-02-10 00:00:00,Arriving,27754
+Stansted,2020-02-25 00:00:00,Departing,18713
+Stansted,2020-03-01 00:00:00,Arriving,27576
+Stansted,2020-03-09 00:00:00,Arriving,23740
+Stansted,2020-03-17 00:00:00,Departing,5738
+Stansted,2020-06-05 00:00:00,Arriving,857
+Stansted,2020-04-10 00:00:00,Departing,105
+Stansted,2020-08-12 00:00:00,Departing,10846
+Stansted,2020-10-20 00:00:00,Departing,2253
+Stansted,2020-10-16 00:00:00,Arriving,6827
+Stansted,2020-08-21 00:00:00,Departing,11949
+Stansted,2020-10-15 00:00:00,Departing,3747
+Stansted,2020-08-12 00:00:00,Arriving,9946
+Stansted,2020-10-15 00:00:00,Arriving,3614
+Stansted,2020-09-15 00:00:00,Departing,6364
+Stansted,2020-09-15 00:00:00,Arriving,7448
+Stansted,2020-05-22 00:00:00,Arriving,299
+Stansted,2020-05-20 00:00:00,Departing,465
+Stansted,2020-06-03 00:00:00,Arriving,607
+Stansted,2020-04-15 00:00:00,Arriving,110
+Stansted,2020-05-18 00:00:00,Departing,409
+Stansted,2020-04-13 00:00:00,Arriving,57
+Stansted,2020-04-13 00:00:00,Departing,93
+Stansted,2020-05-18 00:00:00,Arriving,306
+Stansted,2020-06-14 00:00:00,Departing,1059
+Stansted,2020-06-20 00:00:00,Departing,546
+Stansted,2020-06-06 00:00:00,Departing,371
+Stansted,2020-10-29 00:00:00,Departing,2581
+Stansted,2020-12-17 00:00:00,Arriving,3500
+Stansted,2020-10-26 00:00:00,Departing,4623
+Stansted,2020-11-05 00:00:00,Arriving,2288
+Stansted,2020-12-14 00:00:00,Departing,4054
+Stansted,2020-12-04 00:00:00,Arriving,2309
+Stansted,2020-12-31 00:00:00,Departing,1119
+Stansted,2020-12-05 00:00:00,Arriving,1290
+Stansted,2020-11-18 00:00:00,Arriving,444
+Stansted,2020-12-14 00:00:00,Arriving,2515
+Stansted,2020-11-29 00:00:00,Departing,1519
+Stansted,2020-06-20 00:00:00,Arriving,231
+Manchester,2020-04-13 00:00:00,Departing,83
+Stansted,2020-09-22 00:00:00,Arriving,7152
+Stansted,2020-05-11 00:00:00,Arriving,310
+Stansted,2020-05-12 00:00:00,Departing,142
+Stansted,2020-10-14 00:00:00,Departing,3381
+Stansted,2020-09-21 00:00:00,Departing,7459
+Stansted,2020-07-10 00:00:00,Departing,7022
+Stansted,2020-10-05 00:00:00,Departing,5220
+Stansted,2020-08-24 00:00:00,Arriving,12644
+Stansted,2020-07-01 00:00:00,Departing,5772
+Stansted,2020-07-31 00:00:00,Arriving,6400
+Stansted,2020-08-23 00:00:00,Arriving,16286
+Stansted,2020-07-24 00:00:00,Departing,9523
+Stansted,2020-07-12 00:00:00,Arriving,5296
+Stansted,2020-08-10 00:00:00,Departing,11000
+Stansted,2020-06-27 00:00:00,Departing,1487
+Stansted,2020-08-14 00:00:00,Arriving,12219
+Stansted,2020-07-16 00:00:00,Arriving,4152
+Stansted,2020-09-17 00:00:00,Departing,7337
+Stansted,2020-05-15 00:00:00,Departing,466
+Stansted,2020-06-18 00:00:00,Departing,681
+Stansted,2020-04-09 00:00:00,Departing,46
+Stansted,2020-05-07 00:00:00,Arriving,155
+Stansted,2020-06-09 00:00:00,Departing,760
+Stansted,2020-04-20 00:00:00,Departing,152
+Stansted,2020-05-21 00:00:00,Arriving,137
+Stansted,2020-05-11 00:00:00,Departing,434
+Stansted,2020-05-21 00:00:00,Departing,152
+Stansted,2020-06-09 00:00:00,Arriving,401
+Stansted,2020-05-10 00:00:00,Arriving,211
+Stansted,2020-04-24 00:00:00,Arriving,243
+Stansted,2020-04-18 00:00:00,Departing,72
+Stansted,2020-05-07 00:00:00,Departing,177
+Stansted,2020-06-18 00:00:00,Arriving,375
+Stansted,2020-11-27 00:00:00,Arriving,1526
+Stansted,2020-12-21 00:00:00,Departing,4090
+Stansted,2020-10-29 00:00:00,Arriving,3026
+Stansted,2020-10-28 00:00:00,Arriving,3061
+Stansted,2020-10-26 00:00:00,Arriving,4360
+Stansted,2020-12-02 00:00:00,Arriving,2117
+Stansted,2020-11-29 00:00:00,Arriving,1712
+Stansted,2020-12-15 00:00:00,Departing,2615
+Stansted,2020-11-27 00:00:00,Departing,1448
+Stansted,2020-12-28 00:00:00,Departing,1849
+Stansted,2020-12-02 00:00:00,Departing,2355
+Stansted,2020-12-29 00:00:00,Arriving,2516
+Stansted,2020-12-29 00:00:00,Departing,1619
+Stansted,2020-12-15 00:00:00,Arriving,1457
+Manchester,2020-05-31 00:00:00,Arriving,237
+Stansted,2020-05-03 00:00:00,Departing,220
+Stansted,2020-07-20 00:00:00,Departing,7800
+Stansted,2020-09-18 00:00:00,Arriving,10045
+Stansted,2020-10-12 00:00:00,Departing,4986
+Stansted,2020-08-19 00:00:00,Arriving,11385
+Stansted,2020-06-12 00:00:00,Departing,836
+Stansted,2020-06-23 00:00:00,Arriving,738
+Stansted,2020-04-30 00:00:00,Departing,336
+Stansted,2020-06-30 00:00:00,Arriving,775
+Stansted,2020-06-29 00:00:00,Departing,1441
+Stansted,2020-05-29 00:00:00,Arriving,497
+Stansted,2020-05-01 00:00:00,Arriving,254
+Stansted,2020-04-05 00:00:00,Departing,381
+Stansted,2020-05-05 00:00:00,Arriving,59
+Stansted,2020-05-30 00:00:00,Departing,274
+Stansted,2020-04-23 00:00:00,Departing,211
+Stansted,2020-04-28 00:00:00,Departing,77
+Stansted,2020-06-06 00:00:00,Arriving,329
+Stansted,2020-06-28 00:00:00,Departing,1967
+Stansted,2020-11-03 00:00:00,Departing,3994
+Stansted,2020-11-07 00:00:00,Departing,2678
+Stansted,2020-12-19 00:00:00,Departing,9272
+Stansted,2020-12-19 00:00:00,Arriving,4500
+Stansted,2020-11-03 00:00:00,Arriving,3325
+Stansted,2020-11-17 00:00:00,Departing,1383
+Stansted,2020-12-22 00:00:00,Departing,1893
+Stansted,2020-11-17 00:00:00,Arriving,1775
+Stansted,2020-11-15 00:00:00,Departing,2105
+Stansted,2020-11-20 00:00:00,Arriving,1552
+Stansted,2020-11-21 00:00:00,Departing,1168
+Stansted,2020-12-05 00:00:00,Departing,1695
+Stansted,2020-12-16 00:00:00,Departing,2179
+Stansted,2020-11-11 00:00:00,Arriving,1371
+Stansted,2020-11-11 00:00:00,Departing,1326
+Stansted,2020-12-08 00:00:00,Departing,543
+Manchester,2020-10-16 00:00:00,Departing,6503
+Manchester,2020-08-27 00:00:00,Departing,7331
+Manchester,2020-08-11 00:00:00,Arriving,6765
+Manchester,2020-08-15 00:00:00,Arriving,8273
+Manchester,2020-08-01 00:00:00,Departing,9322
+Manchester,2020-07-17 00:00:00,Departing,6832
+Manchester,2020-08-10 00:00:00,Arriving,8185
+Manchester,2020-09-12 00:00:00,Arriving,9061
+Manchester,2020-08-27 00:00:00,Arriving,7380
+Manchester,2020-09-18 00:00:00,Arriving,9829
+Manchester,2020-07-25 00:00:00,Arriving,5126
+Manchester,2020-07-14 00:00:00,Arriving,1841
+Manchester,2020-05-30 00:00:00,Arriving,385
+Manchester,2020-06-22 00:00:00,Arriving,598
+Manchester,2020-06-29 00:00:00,Arriving,775
+Manchester,2020-06-01 00:00:00,Departing,386
+Manchester,2020-10-13 00:00:00,Departing,3601
+Manchester,2020-06-30 00:00:00,Departing,1013
+Manchester,2020-07-31 00:00:00,Departing,6439
+Manchester,2020-09-01 00:00:00,Arriving,8981
+Manchester,2020-08-01 00:00:00,Arriving,6780
+Manchester,2020-07-17 00:00:00,Arriving,3814
+Manchester,2020-06-12 00:00:00,Arriving,296
+Manchester,2020-06-28 00:00:00,Arriving,674
+Manchester,2020-04-05 00:00:00,Arriving,465
+Manchester,2020-04-30 00:00:00,Arriving,824
+East Midlands,2020-09-21 00:00:00,Arriving,1709
+East Midlands,2020-04-11 00:00:00,Departing,0
+Manchester,2020-05-22 00:00:00,Departing,390
+Manchester,2020-05-20 00:00:00,Arriving,158
+Manchester,2020-05-27 00:00:00,Arriving,195
+Manchester,2020-04-23 00:00:00,Arriving,548
+Manchester,2020-05-20 00:00:00,Departing,179
+Manchester,2020-05-01 00:00:00,Departing,104
+Manchester,2020-05-31 00:00:00,Departing,198
+Manchester,2020-06-23 00:00:00,Arriving,500
+Manchester,2020-05-13 00:00:00,Departing,127
+Manchester,2020-06-04 00:00:00,Arriving,221
+Manchester,2020-05-19 00:00:00,Arriving,130
+East Midlands,2020-06-01 00:00:00,Arriving,23
+Manchester,2020-06-04 00:00:00,Departing,290
+East Midlands,2020-12-18 00:00:00,Arriving,549
+East Midlands,2020-11-07 00:00:00,Arriving,530
+East Midlands,2020-10-30 00:00:00,Arriving,670
+East Midlands,2020-12-22 00:00:00,Arriving,242
+East Midlands,2020-11-14 00:00:00,Departing,90
+East Midlands,2020-11-07 00:00:00,Departing,209
+East Midlands,2020-11-22 00:00:00,Arriving,51
+East Midlands,2020-11-14 00:00:00,Arriving,170
+East Midlands,2020-11-20 00:00:00,Arriving,19
+East Midlands,2020-10-25 00:00:00,Arriving,1064
+East Midlands,2020-11-12 00:00:00,Arriving,79
+East Midlands,2020-11-01 00:00:00,Departing,861
+East Midlands,2020-11-13 00:00:00,Departing,169
+East Midlands,2020-11-13 00:00:00,Arriving,231
+East Midlands,2021-01-01 00:00:00,Departing,22
+East Midlands,2020-12-30 00:00:00,Arriving,22
+East Midlands,2020-12-16 00:00:00,Departing,21
+East Midlands,2020-12-01 00:00:00,Arriving,135
+East Midlands,2020-12-03 00:00:00,Arriving,110
+East Midlands,2020-12-16 00:00:00,Arriving,22
+East Midlands,2020-11-25 00:00:00,Departing,0
+East Midlands,2020-11-01 00:00:00,Arriving,1553
+East Midlands,2020-11-20 00:00:00,Departing,30
+Manchester,2020-11-21 00:00:00,Arriving,1501
+Manchester,2020-12-04 00:00:00,Arriving,3037
+Manchester,2020-11-18 00:00:00,Departing,815
+Manchester,2020-12-19 00:00:00,Arriving,5075
+Manchester,2020-12-11 00:00:00,Departing,4587
+Manchester,2020-12-19 00:00:00,Departing,6918
+Manchester,2020-11-11 00:00:00,Departing,1242
+Manchester,2020-11-28 00:00:00,Departing,1563
+Manchester,2020-12-05 00:00:00,Departing,4107
+Manchester,2020-11-07 00:00:00,Arriving,4124
+Manchester,2020-11-22 00:00:00,Arriving,2134
+Manchester,2020-11-26 00:00:00,Arriving,1485
+Manchester,2020-12-08 00:00:00,Departing,2680
+Manchester,2020-12-11 00:00:00,Arriving,4441
+Manchester,2020-12-16 00:00:00,Arriving,2318
+East Midlands,2020-10-31 00:00:00,Departing,465
+Manchester,2020-11-23 00:00:00,Departing,1189
+Manchester,2020-11-20 00:00:00,Arriving,2104
+Stansted,2020-01-10 00:00:00,Arriving,29187
+Stansted,2020-01-10 00:00:00,Departing,24551
+Stansted,2020-01-23 00:00:00,Arriving,23354
+Stansted,2020-01-23 00:00:00,Departing,23385
+Stansted,2020-01-25 00:00:00,Arriving,25023
+Stansted,2020-01-25 00:00:00,Departing,26722
+Stansted,2020-01-30 00:00:00,Departing,23387
+Stansted,2020-02-02 00:00:00,Arriving,28791
+Stansted,2020-02-17 00:00:00,Departing,29549
+Stansted,2020-02-17 00:00:00,Arriving,27541
+Stansted,2020-02-28 00:00:00,Departing,27773
+Stansted,2020-03-01 00:00:00,Departing,27581
+Stansted,2020-03-10 00:00:00,Arriving,15671
+Stansted,2020-03-20 00:00:00,Arriving,5435
+Stansted,2020-03-23 00:00:00,Arriving,1371
+Stansted,2020-03-23 00:00:00,Departing,2726
+Stansted,2020-10-12 00:00:00,Arriving,6075
+Stansted,2020-04-17 00:00:00,Departing,590
+Stansted,2020-07-08 00:00:00,Arriving,2301
+Stansted,2020-04-21 00:00:00,Departing,64
+Stansted,2020-04-17 00:00:00,Arriving,424
+Stansted,2020-06-03 00:00:00,Departing,772
+Stansted,2020-07-21 00:00:00,Departing,6615
+Stansted,2020-09-08 00:00:00,Departing,6017
+Stansted,2020-09-12 00:00:00,Arriving,9890
+Stansted,2020-08-04 00:00:00,Departing,9651
+Stansted,2020-08-25 00:00:00,Departing,7819
+Stansted,2020-09-08 00:00:00,Arriving,8378
+Stansted,2020-10-23 00:00:00,Arriving,4877
+Stansted,2020-10-08 00:00:00,Departing,4104
+Stansted,2020-10-13 00:00:00,Departing,2859
+Stansted,2020-09-05 00:00:00,Departing,9026
+Stansted,2020-08-17 00:00:00,Departing,10549
+Stansted,2020-08-10 00:00:00,Arriving,9824
+Stansted,2020-09-27 00:00:00,Departing,8953
+Stansted,2020-07-14 00:00:00,Arriving,3821
+Stansted,2020-08-11 00:00:00,Arriving,8943
+Stansted,2020-08-15 00:00:00,Arriving,12747
+East Midlands,2020-05-15 00:00:00,Arriving,0
+East Midlands,2020-06-14 00:00:00,Arriving,0
+Manchester,2020-04-07 00:00:00,Arriving,523
+Manchester,2020-04-09 00:00:00,Arriving,526
+Manchester,2020-04-10 00:00:00,Arriving,580
+Manchester,2020-04-27 00:00:00,Arriving,416
+Manchester,2020-04-11 00:00:00,Arriving,445
+Manchester,2020-05-08 00:00:00,Departing,182
+Manchester,2020-04-29 00:00:00,Departing,563
+Manchester,2020-05-16 00:00:00,Arriving,315
+Manchester,2020-05-17 00:00:00,Arriving,79
+Manchester,2020-06-07 00:00:00,Departing,336
+East Midlands,2020-12-21 00:00:00,Departing,374
+East Midlands,2020-11-26 00:00:00,Departing,26
+East Midlands,2020-12-15 00:00:00,Departing,400
+East Midlands,2020-10-26 00:00:00,Arriving,696
+East Midlands,2020-12-02 00:00:00,Arriving,19
+East Midlands,2020-12-21 00:00:00,Arriving,166
+East Midlands,2020-11-08 00:00:00,Arriving,700
+East Midlands,2020-12-27 00:00:00,Departing,124
+East Midlands,2020-11-15 00:00:00,Departing,138
+East Midlands,2020-12-17 00:00:00,Departing,336
+East Midlands,2020-12-17 00:00:00,Arriving,149
+East Midlands,2020-12-06 00:00:00,Departing,127
+East Midlands,2020-12-09 00:00:00,Departing,33
+East Midlands,2020-11-24 00:00:00,Departing,19
+East Midlands,2020-11-23 00:00:00,Departing,23
+East Midlands,2020-11-23 00:00:00,Arriving,105
+East Midlands,2020-12-31 00:00:00,Departing,6
+East Midlands,2020-11-18 00:00:00,Departing,0
+East Midlands,2020-12-14 00:00:00,Departing,199
+Manchester,2020-11-01 00:00:00,Departing,5328
+Manchester,2020-12-26 00:00:00,Arriving,2668
+Manchester,2020-10-31 00:00:00,Arriving,6049
+Manchester,2020-12-17 00:00:00,Departing,5425
+Manchester,2020-11-19 00:00:00,Departing,1082
+Manchester,2020-12-03 00:00:00,Departing,2970
+Manchester,2020-12-18 00:00:00,Departing,6580
+Manchester,2020-11-05 00:00:00,Arriving,2514
+Manchester,2020-10-28 00:00:00,Departing,2797
+Manchester,2020-12-13 00:00:00,Departing,4926
+Manchester,2020-12-03 00:00:00,Arriving,1990
+Manchester,2020-12-17 00:00:00,Arriving,3949
+Manchester,2020-06-21 00:00:00,Arriving,751
+East Midlands,2020-12-31 00:00:00,Arriving,16
+East Midlands,2020-12-19 00:00:00,Arriving,569
+East Midlands,2020-12-20 00:00:00,Departing,509
+East Midlands,2020-12-20 00:00:00,Arriving,259
+Manchester,2020-12-13 00:00:00,Arriving,3708
+Manchester,2020-12-25 00:00:00,Departing,1228
+Stansted,2020-01-08 00:00:00,Arriving,20604
+Stansted,2020-01-13 00:00:00,Departing,22290
+Stansted,2020-01-27 00:00:00,Departing,25548
+Stansted,2020-01-27 00:00:00,Arriving,25640
+Stansted,2020-02-05 00:00:00,Arriving,17461
+Stansted,2020-02-07 00:00:00,Arriving,27579
+Stansted,2020-02-13 00:00:00,Arriving,20385
+Stansted,2020-02-14 00:00:00,Arriving,25875
+Stansted,2020-02-15 00:00:00,Arriving,24624
+Stansted,2020-02-15 00:00:00,Departing,32319
+Stansted,2020-02-19 00:00:00,Departing,21850
+Stansted,2020-02-21 00:00:00,Departing,29597
+Stansted,2020-02-21 00:00:00,Arriving,31694
+Stansted,2020-02-29 00:00:00,Arriving,25096
+Stansted,2020-03-03 00:00:00,Arriving,17241
+Stansted,2020-03-08 00:00:00,Arriving,25632
+Stansted,2020-03-15 00:00:00,Arriving,16620
+Stansted,2020-03-22 00:00:00,Departing,3118
+Stansted,2020-03-22 00:00:00,Arriving,1907
+Stansted,2020-03-24 00:00:00,Arriving,1093
+Stansted,2020-03-26 00:00:00,Departing,116
+Stansted,2020-09-06 00:00:00,Departing,9361
+Stansted,2020-08-31 00:00:00,Departing,8028
+Stansted,2020-09-14 00:00:00,Departing,7361
+Stansted,2020-06-08 00:00:00,Arriving,447
+Stansted,2020-07-27 00:00:00,Arriving,5740
+Stansted,2020-08-24 00:00:00,Departing,8911
+Stansted,2020-10-19 00:00:00,Departing,4577
+Stansted,2020-05-03 00:00:00,Arriving,181
+Stansted,2020-06-21 00:00:00,Departing,2075
+Stansted,2020-07-05 00:00:00,Departing,7230
+Stansted,2020-07-26 00:00:00,Departing,10349
+Stansted,2020-08-21 00:00:00,Arriving,12847
+Stansted,2020-10-19 00:00:00,Arriving,4949
+Stansted,2020-09-21 00:00:00,Arriving,9074
+Stansted,2020-10-02 00:00:00,Departing,7277
+Stansted,2020-08-09 00:00:00,Arriving,13081
+Stansted,2020-09-06 00:00:00,Arriving,14013
+Stansted,2020-06-26 00:00:00,Departing,1657
+Stansted,2020-08-22 00:00:00,Departing,11906
+Stansted,2020-07-16 00:00:00,Departing,7643
+Stansted,2020-06-13 00:00:00,Departing,636
+Stansted,2020-10-18 00:00:00,Departing,6484
+Stansted,2020-03-29 00:00:00,Arriving,68
+Stansted,2020-04-19 00:00:00,Arriving,85
+Stansted,2020-08-29 00:00:00,Arriving,14307
+Stansted,2020-10-11 00:00:00,Arriving,8878
+Stansted,2020-07-04 00:00:00,Arriving,2658
+Stansted,2020-09-02 00:00:00,Departing,6462
+Stansted,2020-05-08 00:00:00,Departing,275
+Stansted,2020-07-26 00:00:00,Arriving,8679
+Stansted,2020-07-11 00:00:00,Departing,7201
+Stansted,2020-09-28 00:00:00,Departing,6565
+Stansted,2020-07-03 00:00:00,Arriving,2743
+Stansted,2020-10-02 00:00:00,Arriving,9221
+Stansted,2020-06-25 00:00:00,Departing,1552
+Stansted,2020-10-06 00:00:00,Departing,3196
+Stansted,2020-04-20 00:00:00,Arriving,98
+Stansted,2020-05-17 00:00:00,Arriving,220
+Stansted,2020-04-07 00:00:00,Departing,306
+Stansted,2020-04-07 00:00:00,Arriving,329
+Stansted,2020-06-01 00:00:00,Arriving,463
+Stansted,2020-04-14 00:00:00,Arriving,55
+Stansted,2020-06-17 00:00:00,Arriving,476
+Stansted,2020-05-10 00:00:00,Departing,248
+Stansted,2020-06-21 00:00:00,Arriving,997
+Stansted,2020-12-10 00:00:00,Departing,1579
+Stansted,2020-12-03 00:00:00,Departing,1106
+Stansted,2020-11-09 00:00:00,Departing,2361
+Stansted,2020-11-22 00:00:00,Departing,988
+Stansted,2020-11-01 00:00:00,Arriving,7610
+Stansted,2020-10-31 00:00:00,Departing,4120
+Stansted,2020-12-17 00:00:00,Departing,6547
+Stansted,2020-11-14 00:00:00,Departing,1706
+Stansted,2020-12-26 00:00:00,Departing,1322
+Stansted,2020-11-14 00:00:00,Arriving,2077
+Stansted,2020-12-30 00:00:00,Arriving,2207
+Stansted,2020-12-03 00:00:00,Arriving,1023
+Stansted,2020-12-25 00:00:00,Departing,254
+Stansted,2020-11-13 00:00:00,Departing,2410
+Stansted,2020-11-19 00:00:00,Arriving,684
+Manchester,2020-05-09 00:00:00,Arriving,326
+Manchester,2020-04-27 00:00:00,Departing,795
+Manchester,2020-06-13 00:00:00,Departing,293
+Manchester,2020-05-23 00:00:00,Departing,205
+Stansted,2020-05-17 00:00:00,Departing,294
+Stansted,2020-04-26 00:00:00,Arriving,134
+Stansted,2020-04-11 00:00:00,Departing,13
+Stansted,2020-04-19 00:00:00,Departing,242
+Stansted,2020-04-11 00:00:00,Arriving,9
+Stansted,2020-09-05 00:00:00,Arriving,11634
+Stansted,2020-07-25 00:00:00,Departing,10033
+Stansted,2020-07-21 00:00:00,Arriving,4485
+Stansted,2020-05-12 00:00:00,Arriving,256
+Stansted,2020-07-14 00:00:00,Departing,5357
+Stansted,2020-10-05 00:00:00,Arriving,6866
+Stansted,2020-10-23 00:00:00,Departing,5798
+Stansted,2020-07-01 00:00:00,Arriving,2724
+Stansted,2020-09-09 00:00:00,Arriving,8628
+Stansted,2020-07-17 00:00:00,Arriving,4838
+Stansted,2020-07-15 00:00:00,Arriving,3904
+Stansted,2020-08-15 00:00:00,Departing,12915
+Stansted,2020-10-17 00:00:00,Arriving,4902
+Stansted,2020-10-08 00:00:00,Arriving,4450
+Stansted,2020-07-13 00:00:00,Departing,5636
+Stansted,2020-06-29 00:00:00,Arriving,715
+Stansted,2020-04-06 00:00:00,Arriving,190
+Stansted,2020-04-23 00:00:00,Arriving,383
+Stansted,2020-04-08 00:00:00,Departing,146
+Stansted,2020-05-14 00:00:00,Departing,191
+Stansted,2020-06-02 00:00:00,Arriving,302
+Stansted,2020-05-28 00:00:00,Arriving,254
+Stansted,2020-05-28 00:00:00,Departing,327
+Stansted,2020-04-29 00:00:00,Arriving,132
+Stansted,2020-05-09 00:00:00,Departing,267
+Stansted,2020-06-19 00:00:00,Departing,807
+Stansted,2020-05-15 00:00:00,Arriving,261
+Stansted,2020-06-19 00:00:00,Arriving,540
+Stansted,2020-04-30 00:00:00,Arriving,386
+Stansted,2020-05-06 00:00:00,Departing,240
+Stansted,2020-05-09 00:00:00,Arriving,111
+Stansted,2020-04-28 00:00:00,Arriving,182
+Stansted,2020-05-30 00:00:00,Arriving,98
+Stansted,2020-04-18 00:00:00,Arriving,51
+Stansted,2020-05-31 00:00:00,Departing,738
+Stansted,2020-06-12 00:00:00,Arriving,435
+Stansted,2020-12-24 00:00:00,Departing,1368
+Stansted,2020-12-11 00:00:00,Departing,4236
+Stansted,2020-12-20 00:00:00,Departing,9261
+Stansted,2020-11-08 00:00:00,Arriving,4232
+Stansted,2020-12-04 00:00:00,Departing,2697
+Stansted,2020-11-12 00:00:00,Departing,1084
+Stansted,2020-11-15 00:00:00,Arriving,2760
+Stansted,2020-11-28 00:00:00,Arriving,1142
+Stansted,2020-10-28 00:00:00,Departing,3080
+Stansted,2020-12-27 00:00:00,Arriving,3081
+Stansted,2020-11-12 00:00:00,Arriving,1164
+Stansted,2020-11-23 00:00:00,Arriving,991
+Stansted,2020-12-22 00:00:00,Arriving,1241
+Stansted,2020-12-09 00:00:00,Arriving,747
+Stansted,2020-12-16 00:00:00,Arriving,1376
+Stansted,2020-11-18 00:00:00,Departing,451
+Stansted,2020-11-21 00:00:00,Arriving,1221
+Stansted,2020-12-11 00:00:00,Arriving,3524
+Stansted,2020-11-26 00:00:00,Arriving,639
+Stansted,2020-12-06 00:00:00,Arriving,1840
+Stansted,2020-12-09 00:00:00,Departing,821
+Stansted,2020-12-20 00:00:00,Arriving,4929
+Stansted,2020-11-23 00:00:00,Departing,775
+Stansted,2020-11-28 00:00:00,Departing,1016
+Manchester,2020-04-23 00:00:00,Departing,77
+Manchester,2020-06-11 00:00:00,Departing,269
+Stansted,2020-05-22 00:00:00,Departing,338
+Stansted,2020-04-05 00:00:00,Arriving,374
+East Midlands,2020-01-26 00:00:00,Departing,2472
+East Midlands,2020-01-04 00:00:00,Arriving,3650
+East Midlands,2020-02-23 00:00:00,Arriving,2787
+East Midlands,2020-01-04 00:00:00,Departing,2980
+East Midlands,2020-03-09 00:00:00,Departing,2668
+East Midlands,2020-03-14 00:00:00,Arriving,2817
+East Midlands,2020-01-31 00:00:00,Arriving,2709
+East Midlands,2020-02-14 00:00:00,Arriving,2566
+East Midlands,2020-03-09 00:00:00,Arriving,2824
+East Midlands,2020-01-30 00:00:00,Departing,2134
+East Midlands,2020-02-23 00:00:00,Departing,2688
+East Midlands,2020-01-26 00:00:00,Arriving,2659
+East Midlands,2020-01-30 00:00:00,Arriving,2240
+East Midlands,2020-01-05 00:00:00,Departing,2993
+East Midlands,2020-03-15 00:00:00,Departing,662
+East Midlands,2020-03-24 00:00:00,Arriving,16
+East Midlands,2020-03-18 00:00:00,Arriving,1564
+East Midlands,2020-03-26 00:00:00,Departing,0
+East Midlands,2020-01-16 00:00:00,Departing,2045
+East Midlands,2020-03-26 00:00:00,Arriving,0
+Manchester,2020-02-12 00:00:00,Arriving,17679
+Manchester,2020-01-28 00:00:00,Departing,15658
+Manchester,2020-02-15 00:00:00,Departing,29201
+Manchester,2020-02-23 00:00:00,Arriving,31152
+Manchester,2020-03-08 00:00:00,Arriving,26061
+Manchester,2020-03-15 00:00:00,Arriving,21610
+Manchester,2020-01-13 00:00:00,Arriving,23308
+Manchester,2020-01-14 00:00:00,Arriving,18420
+Manchester,2020-01-07 00:00:00,Departing,17754
+Manchester,2020-01-08 00:00:00,Arriving,19016
+Manchester,2020-02-15 00:00:00,Arriving,24357
+Manchester,2020-03-12 00:00:00,Arriving,17025
+Manchester,2020-03-26 00:00:00,Arriving,1470
+Manchester,2020-01-27 00:00:00,Arriving,22246
+Manchester,2020-01-11 00:00:00,Departing,21204
+Manchester,2020-01-14 00:00:00,Departing,15404
+Manchester,2020-01-28 00:00:00,Arriving,17269
+Manchester,2020-02-19 00:00:00,Arriving,21521
+Manchester,2020-03-12 00:00:00,Departing,18170
+East Midlands,2020-05-31 00:00:00,Departing,0
+East Midlands,2020-07-26 00:00:00,Departing,1518
+East Midlands,2020-07-12 00:00:00,Departing,845
+East Midlands,2020-10-20 00:00:00,Departing,418
+East Midlands,2020-06-07 00:00:00,Arriving,0
+East Midlands,2020-07-12 00:00:00,Arriving,538
+East Midlands,2020-07-19 00:00:00,Arriving,782
+East Midlands,2020-08-25 00:00:00,Departing,1266
+East Midlands,2020-09-06 00:00:00,Departing,1584
+East Midlands,2020-10-06 00:00:00,Departing,545
+East Midlands,2020-04-14 00:00:00,Arriving,0
+East Midlands,2020-06-19 00:00:00,Arriving,0
+East Midlands,2020-04-21 00:00:00,Departing,0
+East Midlands,2020-07-10 00:00:00,Departing,1086
+East Midlands,2020-04-14 00:00:00,Departing,0
+East Midlands,2020-09-15 00:00:00,Departing,904
+East Midlands,2020-04-08 00:00:00,Arriving,0
+East Midlands,2020-04-17 00:00:00,Arriving,0
+East Midlands,2020-04-21 00:00:00,Arriving,0
+East Midlands,2020-04-29 00:00:00,Arriving,0
+East Midlands,2020-10-02 00:00:00,Arriving,1897
+East Midlands,2020-10-19 00:00:00,Departing,577
+East Midlands,2020-07-16 00:00:00,Departing,1729
+East Midlands,2020-10-24 00:00:00,Departing,1329
+East Midlands,2020-09-29 00:00:00,Arriving,1225
+East Midlands,2020-07-04 00:00:00,Arriving,229
+East Midlands,2020-07-05 00:00:00,Departing,678
+East Midlands,2020-08-24 00:00:00,Departing,1845
+East Midlands,2020-09-06 00:00:00,Arriving,1577
+East Midlands,2020-07-14 00:00:00,Arriving,579
+East Midlands,2020-10-19 00:00:00,Arriving,1043
+East Midlands,2020-09-25 00:00:00,Departing,1664
+East Midlands,2020-09-01 00:00:00,Arriving,1441
+East Midlands,2020-06-17 00:00:00,Arriving,0
+East Midlands,2020-05-08 00:00:00,Arriving,0
+East Midlands,2020-07-27 00:00:00,Departing,1800
+East Midlands,2020-04-08 00:00:00,Departing,0
+East Midlands,2020-07-24 00:00:00,Arriving,1235
+East Midlands,2020-06-03 00:00:00,Departing,19
+East Midlands,2020-04-02 00:00:00,Arriving,0
+East Midlands,2020-08-21 00:00:00,Arriving,2059
+East Midlands,2020-05-18 00:00:00,Departing,0
+East Midlands,2020-10-13 00:00:00,Arriving,653
+East Midlands,2020-07-27 00:00:00,Arriving,1717
+East Midlands,2020-04-07 00:00:00,Departing,0
+East Midlands,2020-04-19 00:00:00,Departing,0
+East Midlands,2020-08-24 00:00:00,Arriving,2141
+East Midlands,2020-07-05 00:00:00,Arriving,185
+East Midlands,2020-05-21 00:00:00,Departing,0
+Manchester,2020-06-15 00:00:00,Arriving,580
+Manchester,2020-09-02 00:00:00,Departing,7046
+Manchester,2020-08-22 00:00:00,Departing,9089
+Manchester,2020-09-14 00:00:00,Departing,8059
+Manchester,2020-07-27 00:00:00,Arriving,6084
+Manchester,2020-10-09 00:00:00,Arriving,7124
+Manchester,2020-07-16 00:00:00,Arriving,2927
+Manchester,2020-08-31 00:00:00,Arriving,10556
+Manchester,2020-04-14 00:00:00,Arriving,117
+Manchester,2020-04-16 00:00:00,Arriving,434
+Manchester,2020-10-19 00:00:00,Departing,3945
+Manchester,2020-03-29 00:00:00,Arriving,1146
+Manchester,2020-09-06 00:00:00,Arriving,11178
+Manchester,2020-04-03 00:00:00,Departing,260
+Manchester,2020-10-20 00:00:00,Departing,3697
+Manchester,2020-08-02 00:00:00,Arriving,9150
+Manchester,2020-09-11 00:00:00,Arriving,10692
+Manchester,2020-09-20 00:00:00,Arriving,10842
+Manchester,2020-10-18 00:00:00,Arriving,6092
+Manchester,2020-08-02 00:00:00,Departing,9009
+Manchester,2020-09-06 00:00:00,Departing,8287
+Manchester,2020-08-24 00:00:00,Arriving,9345
+Manchester,2020-09-14 00:00:00,Arriving,9262
+Manchester,2020-07-03 00:00:00,Arriving,1891
+Manchester,2020-07-26 00:00:00,Arriving,6434
+Manchester,2020-07-05 00:00:00,Departing,2974
+Manchester,2020-07-22 00:00:00,Arriving,4163
+Manchester,2020-07-04 00:00:00,Arriving,1094
+Manchester,2020-09-28 00:00:00,Arriving,8641
+Manchester,2020-10-18 00:00:00,Departing,4779
+Manchester,2020-08-22 00:00:00,Arriving,8447
+Manchester,2020-07-22 00:00:00,Departing,6787
+Manchester,2020-07-12 00:00:00,Arriving,2775
+Manchester,2020-09-10 00:00:00,Departing,6312
+Manchester,2020-06-15 00:00:00,Departing,413
+Manchester,2020-06-10 00:00:00,Departing,281
+Manchester,2020-06-25 00:00:00,Arriving,598
+Manchester,2020-04-19 00:00:00,Departing,114
+Manchester,2020-05-05 00:00:00,Departing,81
+Manchester,2020-05-08 00:00:00,Arriving,451
+Manchester,2020-04-22 00:00:00,Departing,74
+East Midlands,2020-04-13 00:00:00,Departing,0
+Manchester,2020-04-26 00:00:00,Departing,203
+Manchester,2020-05-25 00:00:00,Arriving,181
+Manchester,2020-06-01 00:00:00,Arriving,301
+Manchester,2020-06-08 00:00:00,Arriving,824
+Manchester,2020-06-17 00:00:00,Arriving,365
+Manchester,2020-06-26 00:00:00,Arriving,493
+East Midlands,2020-05-09 00:00:00,Arriving,0
+East Midlands,2020-05-31 00:00:00,Arriving,0
+Manchester,2020-05-23 00:00:00,Arriving,117
+Manchester,2020-05-25 00:00:00,Departing,402
+Manchester,2020-06-07 00:00:00,Arriving,375
+Manchester,2020-06-05 00:00:00,Departing,386
+East Midlands,2020-12-14 00:00:00,Arriving,100
+East Midlands,2020-11-19 00:00:00,Departing,14
+East Midlands,2020-11-05 00:00:00,Arriving,132
+East Midlands,2020-11-05 00:00:00,Departing,57
+East Midlands,2020-11-19 00:00:00,Arriving,24
+East Midlands,2020-11-24 00:00:00,Arriving,34
+Manchester,2020-04-25 00:00:00,Arriving,599
+Manchester,2020-05-10 00:00:00,Departing,81
+Manchester,2020-04-25 00:00:00,Departing,108
+Manchester,2020-06-05 00:00:00,Arriving,696
+Manchester,2020-05-03 00:00:00,Departing,90
+Manchester,2020-12-28 00:00:00,Departing,2357
+Manchester,2020-11-19 00:00:00,Arriving,1271
+Manchester,2020-11-01 00:00:00,Arriving,8573
+Manchester,2020-11-02 00:00:00,Departing,3803
+Manchester,2020-11-25 00:00:00,Arriving,1053
+Manchester,2020-11-13 00:00:00,Arriving,2508
+Manchester,2020-11-14 00:00:00,Arriving,1849
+Manchester,2020-11-25 00:00:00,Departing,1016
+Manchester,2021-01-01 00:00:00,Departing,1383
+Manchester,2020-12-25 00:00:00,Arriving,1143
+Manchester,2020-12-18 00:00:00,Arriving,6079
+Manchester,2020-06-13 00:00:00,Arriving,477
+East Midlands,2020-12-27 00:00:00,Arriving,455
+East Midlands,2020-12-28 00:00:00,Departing,45
+Manchester,2021-01-01 00:00:00,Arriving,2384
+Stansted,2020-01-02 00:00:00,Departing,29896
+Stansted,2020-01-07 00:00:00,Departing,16428
+Stansted,2020-01-13 00:00:00,Arriving,25116
+Stansted,2020-01-15 00:00:00,Departing,13910
+Stansted,2020-01-22 00:00:00,Departing,14690
+Stansted,2020-01-22 00:00:00,Arriving,15227
+Stansted,2020-01-28 00:00:00,Departing,14552
+Stansted,2020-02-01 00:00:00,Arriving,25043
+Stansted,2020-02-01 00:00:00,Departing,26489
+Stansted,2020-02-04 00:00:00,Arriving,18354
+Stansted,2020-02-05 00:00:00,Departing,17851
+Stansted,2020-02-09 00:00:00,Departing,24166
+Stansted,2020-02-11 00:00:00,Departing,20653
+Stansted,2020-02-11 00:00:00,Arriving,20002
+Stansted,2020-02-12 00:00:00,Arriving,16371
+Stansted,2020-02-12 00:00:00,Departing,20667
+Stansted,2020-02-18 00:00:00,Departing,22581
+Stansted,2020-02-19 00:00:00,Arriving,21871
+Stansted,2020-02-24 00:00:00,Arriving,30043
+Stansted,2020-02-27 00:00:00,Departing,23483
+Stansted,2020-03-05 00:00:00,Departing,21381
+Stansted,2020-03-05 00:00:00,Arriving,20227
+Stansted,2020-03-12 00:00:00,Arriving,15710
+Stansted,2020-03-12 00:00:00,Departing,16995
+Stansted,2020-03-13 00:00:00,Departing,17898
+Stansted,2020-03-25 00:00:00,Arriving,100
+Stansted,2020-03-28 00:00:00,Arriving,180
+Stansted,2020-09-03 00:00:00,Arriving,10164
+Stansted,2020-08-05 00:00:00,Arriving,8160
+Stansted,2020-07-18 00:00:00,Arriving,5579
+Stansted,2020-09-23 00:00:00,Arriving,7197
+Stansted,2020-09-28 00:00:00,Arriving,9104
+Stansted,2020-03-31 00:00:00,Arriving,55
+Stansted,2020-03-31 00:00:00,Departing,245
+Stansted,2020-08-22 00:00:00,Arriving,13461
+Stansted,2020-08-31 00:00:00,Arriving,13499
+Stansted,2020-07-25 00:00:00,Arriving,7080
+Stansted,2020-08-08 00:00:00,Departing,13214
+Stansted,2020-09-19 00:00:00,Departing,9155
+Stansted,2020-08-26 00:00:00,Departing,8980
+Stansted,2020-08-28 00:00:00,Departing,11864
+Stansted,2020-09-10 00:00:00,Departing,7333
+Stansted,2020-08-13 00:00:00,Arriving,9852
+Stansted,2020-09-29 00:00:00,Arriving,7000
+Stansted,2020-08-02 00:00:00,Departing,13740
+Stansted,2020-08-30 00:00:00,Departing,10258
+Stansted,2020-08-02 00:00:00,Arriving,11942
+Stansted,2020-08-08 00:00:00,Arriving,10748
+Stansted,2020-07-07 00:00:00,Departing,5183
+Stansted,2020-08-13 00:00:00,Departing,11132
+Stansted,2020-09-04 00:00:00,Departing,9291
+Stansted,2020-06-25 00:00:00,Arriving,699
+Stansted,2020-08-05 00:00:00,Departing,11004
+Stansted,2020-04-25 00:00:00,Arriving,294
+Stansted,2020-09-14 00:00:00,Arriving,9216
+Stansted,2020-07-18 00:00:00,Departing,9726
+Stansted,2020-04-22 00:00:00,Departing,301
+Stansted,2020-10-09 00:00:00,Departing,6942
+Stansted,2020-08-04 00:00:00,Arriving,7419
+Stansted,2020-10-09 00:00:00,Arriving,6962
+Stansted,2020-07-29 00:00:00,Departing,6971
+Stansted,2020-09-13 00:00:00,Departing,9192
+Stansted,2020-07-29 00:00:00,Arriving,5823
+Stansted,2020-08-30 00:00:00,Arriving,16526
+Stansted,2020-07-23 00:00:00,Departing,8220
+Stansted,2020-07-07 00:00:00,Arriving,2127
+Stansted,2020-10-06 00:00:00,Arriving,4345
+Stansted,2020-09-16 00:00:00,Departing,6765
+Stansted,2020-10-01 00:00:00,Departing,5566
+Stansted,2020-09-03 00:00:00,Departing,7150
+Stansted,2020-09-29 00:00:00,Departing,4962
+Stansted,2020-10-18 00:00:00,Arriving,7640
+Stansted,2020-07-11 00:00:00,Arriving,4515
+Stansted,2020-09-19 00:00:00,Arriving,9931
+Stansted,2020-06-24 00:00:00,Departing,1564
+Stansted,2020-09-13 00:00:00,Arriving,12419
+Stansted,2020-05-08 00:00:00,Arriving,344
+Stansted,2020-06-26 00:00:00,Arriving,869
+Stansted,2020-04-03 00:00:00,Departing,294
+Stansted,2020-06-22 00:00:00,Arriving,859
+Stansted,2020-05-05 00:00:00,Departing,117
+Stansted,2020-06-04 00:00:00,Departing,319
+Stansted,2020-06-16 00:00:00,Departing,570
+Stansted,2020-06-11 00:00:00,Departing,600
+Stansted,2020-05-29 00:00:00,Departing,627
+Stansted,2020-06-04 00:00:00,Arriving,326
+Stansted,2020-03-30 00:00:00,Departing,148
+Stansted,2020-06-30 00:00:00,Departing,1378
+Stansted,2020-05-25 00:00:00,Arriving,308
+Stansted,2020-04-25 00:00:00,Departing,83
+Stansted,2020-05-23 00:00:00,Arriving,143
+Stansted,2020-05-25 00:00:00,Departing,510
+Stansted,2020-03-28 00:00:00,Departing,372
+Stansted,2020-03-30 00:00:00,Arriving,355
+Stansted,2020-06-05 00:00:00,Departing,713
+Stansted,2020-11-02 00:00:00,Departing,4437
+Stansted,2020-11-25 00:00:00,Departing,455
+Stansted,2020-11-07 00:00:00,Arriving,3345
+Stansted,2020-12-23 00:00:00,Arriving,1078
+Stansted,2020-12-13 00:00:00,Departing,4642
+Stansted,2020-11-04 00:00:00,Departing,5232
+Stansted,2020-10-31 00:00:00,Arriving,6048
+Stansted,2020-11-22 00:00:00,Arriving,1127
+Stansted,2020-11-30 00:00:00,Departing,1083
+Stansted,2020-12-10 00:00:00,Arriving,1224
+Stansted,2020-12-07 00:00:00,Arriving,1350
+Stansted,2020-11-10 00:00:00,Departing,1886
+Stansted,2020-12-07 00:00:00,Departing,1786
+Stansted,2020-11-13 00:00:00,Arriving,2702
+Stansted,2021-01-01 00:00:00,Departing,1308
+Stansted,2020-11-25 00:00:00,Arriving,534
+Stansted,2020-12-13 00:00:00,Arriving,3214
+Stansted,2020-12-26 00:00:00,Arriving,1762
+Stansted,2021-01-01 00:00:00,Arriving,2790
+Manchester,2020-11-14 00:00:00,Departing,1267
+East Midlands,2020-12-25 00:00:00,Departing,0
+Stansted,2020-12-25 00:00:00,Arriving,322
